@@ -1,0 +1,3462 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0034)http://www.ncbi.nlm.nih.gov/pubmed -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><pre>1. Proc Natl Acad Sci U S A. 2013 Sep 16. [Epub ahead of print]
+
+Implementation of cell-free biological networks at steady state.
+
+Niederholtmeyer H, Stepanova V, Maerkl SJ.
+
+Institute of Bioengineering, School of Engineering, École Polytechnique Fédérale 
+de Lausanne, CH-1015 Lausanne, Switzerland.
+
+Living cells maintain a steady state of biochemical reaction rates by exchanging 
+energy and matter with the environment. These exchanges usually do not occur in
+in vitro systems, which consequently go to chemical equilibrium. This in turn has
+severely constrained the complexity of biological networks that can be
+implemented in vitro. We developed nanoliter-scale microfluidic reactors that
+exchange reagents at dilution rates matching those of dividing bacteria. In these
+reactors we achieved transcription and translation at steady state for 30 h and
+implemented diverse regulatory mechanisms on the transcriptional, translational, 
+and posttranslational levels, including RNA polymerases, transcriptional
+repression, translational activation, and proteolysis. We constructed and
+implemented an in vitro genetic oscillator and mapped its phase diagram showing
+that steady-state conditions were necessary to produce oscillations. This
+reactor-based approach will allow testing of whether fundamental limits exist to 
+in vitro network complexity.
+
+PMID: 24043836  [PubMed - as supplied by publisher]
+
+
+2. J Neuroimmune Pharmacol. 2013 Sep 17. [Epub ahead of print]
+
+Identification of Novel MicroRNA Signatures Linked to Experimental Autoimmune
+Myasthenia Gravis Pathogenesis: Down-Regulated miR-145 Promotes Pathogenetic Th17
+Cell Response.
+
+Wang J, Zheng S, Xin N, Dou C, Fu L, Zhang X, Chen J, Zhang Y, Geng D, Xiao C,
+Cui G, Shen X, Lu Y, Wang J, Dong R, Qiao Y, Zhang Y.
+
+Department of Neurology, The Affiliated Hospital of Xuzhou Medical College, 99
+West Huai-hai Rd, Xuzhou, China, 221002.
+
+Emerging evidence demonstrates that miRNAs, a new family of key mRNA regulatory
+molecules, have crucial roles in controlling and modulating immunity. Their
+contribution to myasthenia gravis (MG), a T cell-dependent, antibody-mediated
+nervous system autoimmune disease, has not been thoroughly investigated. In the
+present study, using a highly sensitive microarray-based approach, we identified 
+11 miRNAs with differential expression between Peripheral Blood Mononuclear Cells
+(PBMC) from experimental autoimmune MG (EAMG) rats and control rats. miR-145 is
+one of the most significantly down-regulated miRNAs in PBMC from EAMG rats.
+Down-regulation of miR-145 expression was confirmed in PBMC and CD4+CD25- T cells
+(T effector cells) from both EAMG rats and MG patients by real-time PCR.
+Bioinformatics target prediction identified two crucial immune-related
+molecules-CD28 and NFATc1, as putative targets of miR-145. Furthermore, miR-145
+inhibited CD28 and NFATc1 expression by directly targeting their 3'-UTRs, which
+was abolished by mutation of the miR-145 and CD28/NFATc1 binding sites. In vitro 
+up-regulation of miR-145 in CD4+ T cells can significantly reduce CD28 protein
+levels accompanied by decreased proliferative response. In a dendritic cell
+(DC)-T cell coculture system, overexpression of miR-145 in AChR-specific CD4+ T
+cells suppresses NFATc1 expression and T Helper 17 cells level. Finally, we
+observed that administration of lentiviral-miR-145 decreased the severity of
+ongoing, established EAMG with decreased IL-17 production, and also decreased
+serum anti-AChR IgG levels. Our studies provide an important new insight into the
+pathogenesis of EAMG and MG, which may open a new perspective for the development
+of effective gene therapy for EAMG/MG.
+
+PMID: 24043548  [PubMed - as supplied by publisher]
+
+
+3. Mol Cell Proteomics. 2013 Sep 16. [Epub ahead of print]
+
+Transcriptomic messiness in the venom duct of Conus miles contributes to
+conotoxin diversity.
+
+Jin AH, Dutertre S, Kaas Q, Lavergne V, Kubala P, Lewis RJ, Alewood PF.
+
+Institute for Molecular Bioscience, Australia.
+
+Marine cone snails have developed sophisticated chemical strategies to capture
+prey and defend against predators. Among the vast array of bioactive molecules in
+their venom, the peptide components called conotoxins or conopeptides dominate,
+with many binding with high affinity and selectivity to a broad range of cellular
+targets, including receptors and transporters of the nervous system. Whereas, the
+conopeptide gene precursor organisation has a conserved topology, the peptides in
+the venom duct are highly processed. Indeed, deep sequencing transcriptomics has 
+uncovered on average less than 100 toxin gene precursors per species, while
+advanced proteomics has revealed &gt; 10-fold greater diversity at the peptide
+level. In the present study, second generation sequencing technologies coupled to
+highly sensitive mass spectrometry methods were applied to rapidly uncover the
+conopeptide diversity in the venom of a worm hunting species, Conus miles. A
+total of 662 putative conopeptide encoded sequences were retrieved from
+transcriptomic data, comprising 48 validated conotoxin sequences that clustered
+into 10 gene superfamilies, including 3 novel superfamilies and a novel cysteine 
+framework (C-C-C-CCC-C-C) identified at both transcript and peptide levels. A
+surprisingly large number of conopeptide gene sequences were expressed at
+low-levels, including a series of single amino acid variants, as well as
+sequences containing deletions and frame and stop codon shifts. Some of the toxin
+variants generate alternative cleavage sites, interrupted or elongated cysteine
+frameworks, and highly variable isoforms within families that could be identified
+at the peptide level. Together with the variable peptide processing identified
+previously, background genetic and phenotypic levels of biological messiness in
+venoms contributes to the hypervariability of venom peptides and their ability to
+rapidly evolve.
+
+PMID: 24043424  [PubMed - as supplied by publisher]
+
+
+4. Glycobiology. 2013 Sep 16. [Epub ahead of print]
+
+Common recognition principles across diverse sequence and structural families of 
+sialic acid binding proteins.
+
+Bhagavat R, Chandra N.
+
+Department of Biochemistry, Indian Institute of Science, Bangalore.
+
+Sialic acids form a large family of 9-carbon monosaccharides and are integral
+components of glycoconjugates. They are known to bind to a wide range of
+receptors belonging to diverse sequence families and fold classes, and are key
+mediators in a plethora of cellular processes. Thus, it is of great interest to
+understand the features that give rise to such a recognition capability.
+Structural analyses using a non-redundant dataset of known sialic acid binding
+proteins was carried out, which included exhaustive binding site comparisons and 
+site alignments using in-house algorithms, followed by clustering and tree
+computation, which has led to derivation of sialic acid recognition
+principles.Although the proteins in the dataset belong to several sequence and
+structure families, their binding sites could be grouped into only six types.
+Structural comparison of the binding sites indicate that all sites contain one or
+more different combinations of key structural features over a common scaffold.
+The six binding site types thus serve as structural motifs for recognising sialic
+acid. Scanning the motifs against a non-redundant set of binding sites from PDB
+indicated the motifs to be specific for sialic acid recognition. Knowledge of
+determinants obtained from this study will be useful for detecting function in
+unknown proteins. As an example analysis, a genome-wide scan for the motifs in
+structures of M.tuberculosis proteome, identified 17 hits that contain
+combinations of the features, suggesting a possible function of sialic acid
+binding by these proteins.
+
+PMID: 24043392  [PubMed - as supplied by publisher]
+
+
+5. BioDrugs. 2013 Sep 17. [Epub ahead of print]
+
+CD30 as a Therapeutic Target for Lymphoma.
+
+Schirrmann T, Steinwand M, Wezler X, Ten Haaf A, Tur MK, Barth S.
+
+Department of Biotechnology, Institute of Biochemistry, Biotechnology and
+Bioinformatics, Technische Universität Braunschweig, Spielmannstr. 7, 38106,
+Braunschweig, Germany, th.schirrmann@tu-bs.de.
+
+Hodgkin's lymphoma (HL) and ALK(+) anaplastic large-cell lymphoma (ALCL) have
+become highly curable due to the success of modern regimens of chemotherapy and
+radiotherapy. However, up to one-third of the patients experience relapse or do
+not respond to first-line therapy, and half of them relapse again after secondary
+therapy with limited options for further treatment. In the last 15&nbsp;years,
+monoclonal antibodies (mAbs) directed to surface receptors became a new and
+valuable therapeutic option in many hematologic malignancies. Due to its
+restricted expression on normal activated lymphocytes and its high expression on 
+malignant cells, CD30 represents an attractive target molecule for HL and ALCL
+therapy. However, unconjugated CD30 mAbs have demonstrated a lack of objective
+clinical responses in patients with recurrent HL. CD30 exhibits complex signaling
+pathways, and binding of its natural ligand or anti-CD30 mAbs can induce
+apoptosis but may also promote proliferation and activation depending on the
+cellular context. Moreover, CD30 rapidly internalizes after crosslinking, which
+counteracts efficient recruitment of immunologic effectors but also provides the 
+opportunity to transfer cytotoxic payloads coupled to CD30-specific mAbs into the
+tumor cells. Several tumor targeting approaches have been studied, including
+radio-immunoconjugates, immunotoxins, immunoRNases, immunokinases, and antibody
+drug conjugates (ADCs). In 2011, the ADC brentuximab-vedotin, consisting of the
+CD30-specific chimeric mAb cAC10 and the potent tubulin toxin monomethyl
+auristatin E, gained regulatory approval as a well tolerated and highly active
+drug in patients with refractory and relapsed HL and ALCL. SGN-35 is on the way
+to being incorporated in the standard management of CD30(+) lymphoma with
+significant therapeutic impact. This review gives a critical overview about
+anti-CD30 therapies with unconjugated, engineered, and conjugated mAbs and the
+therapeutic challenges of treatment of CD30(+) lymphoma.
+
+PMID: 24043362  [PubMed - as supplied by publisher]
+
+
+6. Oncogenesis. 2013 Sep 16;2:e70. doi: 10.1038/oncsis.2013.30.
+
+Protooncogene TCL1b functions as an Akt kinase co-activator that exhibits
+oncogenic potency in vivo.
+
+Hashimoto M, Suizu F, Tokuyama W, Noguchi H, Hirata N, Matsuda-Lennikov M,
+Edamura T, Masuzawa M, Gotoh N, Tanaka S, Noguchi M.
+
+Division of Cancer Biology, Institute for Genetic Medicine, Hokkaido University, 
+Sapporo, Japan.
+
+Protooncogene T-cell leukemia 1 (TCL1), which is implicated in human T-cell
+prolymphocytic leukemia (T-PLL), interacts with Akt and enhances its kinase
+activity, functioning as an Akt kinase co-activator. Two major isoforms of TCL1
+Protooncogenes (TCL1 and TCL1b) are present adjacent to each other on human
+chromosome 14q.32. In human T-PLL, both TCL1 and TCL1b are activated by
+chromosomal translocation. Moreover, TCL1b-transgenic mice have never been
+created. Therefore, it remains unclear whether TCL1b itself, independent of TCL1,
+exhibits oncogenicity. In co-immunoprecipitation assays, both ectopic and
+endogenous TCL1b interacted with Akt. In in vitro Akt kinase assays, TCL1b
+enhanced Akt kinase activity in dose- and time-dependent manners. Bioinformatics 
+approaches utilizing multiregression analysis, cluster analysis, KEGG (Kyoto
+Encyclopedia of Genes and Genomes) pathway mapping, Venn diagrams and Gene
+Ontology (GO) demonstrated that TCL1b showed highly homologous gene-induction
+signatures similar to Myr-Akt or TCL1. TCL1b exhibited oncogenicity in in vitro
+colony-transformation assay. Further, two independent lines of β-actin
+promoter-driven TCL1b-transgenic mice developed angiosarcoma on the intestinal
+tract. Angiosarcoma is a rare form of cancer in humans with poor prognosis. Using
+immunohistochemistry, 11 out of 13 human angiosarcoma samples were positively
+stained with both anti-TCL1b and anti-phospho-Akt antibodies. Consistently, in
+various cancer tissues, 69 out of 146 samples were positively stained with
+anti-TCL1b, out of which 46 were positively stained with anti-phospho-Akt
+antibodies. Moreover, TCL1b structure-based inhibitor 'TCL1b-Akt-in' inhibited
+Akt kinase activity in in vitro kinase assays and PDGF (platelet-derived growth
+factor)-induced Akt kinase activities-in turn, 'TCL1b-Akt-in' inhibited cellular 
+proliferation of sarcoma. The current study disclosed TCL1b bears oncogenicity
+and hence serves as a novel therapeutic target for human neoplastic diseases.
+
+PMID: 24042734  [PubMed]
+
+
+7. Dalton Trans. 2013 Sep 16. [Epub ahead of print]
+
+Facile synthesis of carbon nanotube-inorganic hybrid materials with improved
+photoactivity.
+
+Yu Y, Chen J, Zhou ZM, Zhao YD.
+
+Britton Chance Center for Biomedical Photonics at Wuhan National Laboratory for
+Optoelectronics - Hubei Bioinformatics &amp; Molecular Imaging Key Laboratory,
+Department of Biomedical Engineering, College of Life Science and Technology,
+Huazhong University of Science and Technology, Wuhan 430074, P. R. China.
+zydi@mail.hust.edu.cn.
+
+A facile method was used for the synthesis of CNTs@TiO2 nanocomposites using a
+simple apparatus at ambient pressure and temperature. CNTs@TiO2 exhibit
+core-shell structure without any interfacial adhesive layer on the CNT surface.
+The photodegradation of methyl orange suggests enhanced photoactivity of
+CNTs@TiO2 under UV light. The morphology, structure and composition of CNTs@TiO2 
+were also investigated.
+
+PMID: 24042506  [PubMed - as supplied by publisher]
+
+
+8. BMJ Open. 2013 Sep 16;3(9):e003223. doi: 10.1136/bmjopen-2013-003223.
+
+Internet-based hearing screening using speech-in-noise: validation and
+comparisons of self-reported hearing problems, quality of life and phonological
+representation.
+
+Molander P, Nordqvist P, Oberg M, Lunner T, Lyxell B, Andersson G.
+
+Department of Behavioural Sciences and Learning, Linnaeus Centre HEAD, Swedish
+Institute for Disability Research, Linköping University, Linköping, Sweden.
+
+OBJECTIVES: For the last decade a host of different projects have been launched
+to allow persons who are concerned about their hearing status to quickly and at a
+low cost test their hearing ability. Most often, this is&nbsp;carried out without
+collecting complementary information that could be correlated with hearing
+impairment. In this two-part study we first, present the development and
+validation of a novel Internet-based hearing test, and second, report on the
+associations between this test and phonological representation, quality of life
+and self-reported hearing difficulties.
+DESIGN: Cross-sectional study.
+SETTING: An opportunity sample of participants was recruited at the Stockholm
+central station for the first study. All parts of the second study were conducted
+via the Internet, with testing and self-report forms adapted for online use.
+PARTICIPANTS: The first part of the study was carried out in direct contact with 
+the participants, and participants from the second study were recruited by means 
+of advertisements in newspapers and on webpages. The only exclusion criterion was
+that participants had to be over 18 years old. Most participants were between 60 
+and 69 years old. There were almost an equal number of men and women (total
+n=316).
+OUTCOME MEASURES: 48 participants failed the Internet-based hearing screening
+test. The group failing the test reported more problems on the Amsterdam
+Inventory of Auditory Disability. In addition, they were found to have diminished
+phonological representational skills. However, no difference in quality of life
+was found.
+CONCLUSIONS: Almost one in five participants was in need of contacting their
+local hearing clinic. This group had more complaints regarding tinnitus and
+hyperacusis, rated their own hearing as worse than those who passed, and had a
+poorer capability of generating accurate phonological representations. This study
+suggests that it is feasible to screen for hearing status online, and obtain
+valid data.
+
+PMID: 24041846  [PubMed]
+
+
+9. Theriogenology. 2013 Sep 13. pii: S0093-691X(13)00330-0. doi:
+10.1016/j.theriogenology.2013.08.007. [Epub ahead of print]
+
+Cloning and transcriptional activity of ovarian-specific promoter in dairy goats.
+
+Bai L, Liu X, Fang F, Zhang L, Zhao H, Peng J, Cao B.
+
+College of Animal Science and Technology, Northwest A&amp;F University, Yangling,
+Shaanxi, PR China.
+
+Ovarian-specific promoter (OSP) is a tissue-specific promoter only expressed in
+the ovary to regulate its development. To investigate the activity of OSP in
+diverse dairy goat cells, OSP was cloned from dairy goat genome and used to
+construct the luciferase reporter vector pGL3-OSP to examine the transcriptional 
+activity of OSP. Consequently, a 461-bp OSP fragment was obtained. Bioinformatics
+analysis indicated that the fragment contained multiple transcription factor
+binding sites, such as SRY, HSF, AP-1, C/EBP, CAAT, TATA, and so on, and the
+nucleotide sequence of OSP shared 99% and 97% similarity with those of OSP-1 and 
+OSP-2 in rat. In addition, two variants were identified in the OSP (g.164T was
+deletion and g.375T&lt;C). In diverse cells, the expression of luciferase in ovarian
+granulosa cells (GCs) and stromal cells of ovarian cortex was extremely
+significantly higher than that in fetal fibroblasts and oviduct epithelial cells.
+Meanwhile, the expression of luciferase in ovarian GCs was extremely
+significantly higher than that in the stromal cells of ovarian cortex. In
+summary, we successfully extracted dairy goat OSP and identified its
+transcriptional activity, which in part shed light on the study of
+ovarian-specific transcription and provided further insights into the development
+and regulation of dairy goat's ovary as well.
+
+Crown Copyright © 2013. Published by Elsevier Inc. All rights reserved.
+
+PMID: 24041824  [PubMed - as supplied by publisher]
+
+
+10. Biochim Biophys Acta. 2013 Sep 13. pii: S0005-2728(13)00148-5. doi:
+10.1016/j.bbabio.2013.09.002. [Epub ahead of print]
+
+Relevance of rhodopsin studies for GPCR activation.
+
+Deupi X.
+
+Condensed Matter Theory Group and Laboratory of Biomolecular Research, Paul
+Scherrer Institute, WHGA/106, CH-5232 Villigen PSI, Switzerland.
+
+Rhodopsin, the dim-light photoreceptor present in the rod cells of the retina, is
+both a retinal-binding protein and a G protein-coupled receptor (GPCR). Due to
+this conjunction, it benefits of an arsenal of spectroscopy techniques that can
+be used for its characterization, while being a model system for the important
+family of Class A (also referred to as "rhodopsin-like") GPCRs. For instance,
+rhodopsin has been a crucial player in the field of GPCR structural biology.
+Until 2007, it was the only GPCR for which a high-resolution crystal structure
+was available, so all structure-activity analyses on GPCRs, from structure-based 
+drug discovery to studies of structural changes upon activation, were based on
+rhodopsin. At present, about a third of currently available GPCR structures are
+still from rhodopsin. In this review, I show some examples of how these
+structures can still be used to gain insight into general aspects of GPCR
+activation. First, the analysis of the third intracellular loop in rhodopsin
+structures allows to gain understanding of the structural and dynamic properties 
+of this region, which is absent (due to protein engineering or poor electron
+density) in most of the currently available GPCR structures. Second, a detailed
+analysis of the structure of the transmembrane domains in inactive, intermediate 
+and active rhodopsin structures allows to detect early conformational changes in 
+the process of ligand-induced GPCR activation. Finally, the analysis of a
+conserved ligand-activated transmission switch in the transmembrane bundle of
+GPCRs in the context of the rhodopsin activation cycle, allows to suggest that
+the structures of many of the currently available agonist-bound GPCRs may
+correspond to intermediate active states. While the focus in GPCR structural
+biology is inevitably moving away from rhodopsin, in other aspects rhodopsin is
+still at the forefront. For instance, the first studies of the structural basis
+of disease mutants in GPCRs, or the most detailed analysis of cellular GPCR
+signal transduction networks using a systems biology approach, have been carried 
+out in rhodopsin. Finally, due again to its unique properties among GPCRs,
+rhodopsin will likely play an important role in the application of X-ray free
+electron laser crystallography to time-resolved structural biology in membrane
+proteins. Rhodopsin, thus, still remains relevant as a model system to study the 
+molecular mechanisms of GPCR activation. This article is part of a Special Issue 
+entitled: Retinal Proteins - You can teach an old dog new tricks.
+
+© 2013 Elsevier B.V. All rights reserved.
+
+PMID: 24041646  [PubMed - as supplied by publisher]
+
+
+11. Curr Drug Targets. 2013 Sep 17. [Epub ahead of print]
+
+Proteomic and Bioinformatic Analysis of Trypanosoma Cruzi Chemotherapy and
+Potential Drug Targets: New Pieces for an Old Puzzle.
+
+Rubem Figueiredo Sadok Menna-Barreto EY, Belloze KT, Perales J, Silva-Jr FP.
+
+Laboratório de Bioquímica de Proteínas e Peptídeos, Instituto Oswaldo Cruz,
+FIOCRUZ, Av. Brasil 4365 - 21040-360, Manguinhos, Rio de Janeiro, Brazil.
+floriano@ioc.fiocruz.br.
+
+Chagas disease is endemic in Latin America and is caused by the protozoan
+hemoflagellate parasite Trypanosoma cruzi. Nowadays, it has also been
+disseminated to non-endemic countries due to the ease of global mobility. The
+nitroheterocycle benznidazole is currently used to treat this neglected tropical 
+disease, although this drug causes severe side effects and has limited efficacy
+during the chronic phase of the disease. Proteomics and bioinformatics have
+recently become powerful tools in the identification of new drug targets. In the 
+last decade, proteomic profiles of different T. cruzi forms under distinct
+experimental conditions were assessed. These reports have pointed to many
+potential drug targets, with ergosterol biosynthesis-related proteins and redox
+system enzymes being the most promising candidates. Nevertheless, the majority of
+the compounds active against T. cruzi still have unclear mechanisms of action,
+and most proteomic efforts have studied epimastigotes (the non-clinically
+relevant insect form of the parasite). Additional analyses with the clinically
+relevant parasite forms should be performed to identify proteins that actually
+bind drugs active against T. cruzi. Nonetheless, due to the known technical
+hurdles in generating such experimental data, bioinformatic approaches that
+integrate currently available data to generate additional knowledge will also be 
+useful. Here, we review T. cruzi proteomics and describe the main chemoproteomic 
+methods and their application to the identification of trypanosomatid drug
+targets. Finally, we discuss the potential benefits of more extensively
+integrating all proteomic data with other molecular databases via bioinformatic
+analyses to develop novel, viable strategies for alternative treatments of Chagas
+disease.
+
+PMID: 24041335  [PubMed - as supplied by publisher]
+
+
+12. Hum Genomics. 2013 Sep 16;7(1):19. [Epub ahead of print]
+
+Role of conserved cis-regulatory elements in the post-transcriptional regulation 
+of the human MECP2 gene involved in autism.
+
+Bagga JS, D Antonio LA.
+
+BACKGROUND: The MECP2 gene codes for methyl CpG binding protein 2 which regulates
+activities of other genes in the early development of the brain. Mutations in
+this gene have been associated with Rett syndrome, a form of autism. The purpose 
+of this study was to investigate the role of evolutionarily conserved
+cis-elements in regulating the post-transcriptional expression of the MECP2 gene 
+and to explore their possible correlations with a mutation that is known to cause
+mental retardation.
+RESULTS: A bioinformatics approach was used to map evolutionarily conserved
+cis-regulatory elements in the transcribed regions of the human MECP2 gene and
+its mammalian orthologs. Cis-regulatory motifs including G-quadruplexes, microRNA
+target sites, and AU-rich elements have gained significant importance because of 
+their role in key biological processes and as therapeutic targets. We discovered 
+in the 5[prime]-UTR (untranslated region) of MECP2 mRNA a highly conserved
+G-quadruplex which overlapped a known deletion in Rett syndrome patients with
+decreased levels of MeCP2 protein. We believe that this 5[prime]-UTR G-quadruplex
+could be involved in regulating MECP2 translation. We mapped additional
+evolutionarily conserved G-quadruplexes, microRNA target sites, and AU-rich
+elements in the key sections of both untranslated regions. Our studies suggest
+the regulation of translation, mRNA turnover, and development-related alternative
+MECP2 polyadenylation, putatively involving interactions of conserved
+cis-regulatory elements with their respective trans factors and complex
+interactions among the trans factors themselves. We discovered highly conserved
+G-quadruplex motifs that were more prevalent near alternative splice sites as
+compared to the constitutive sites of the MECP2 gene. We also identified a pair
+of overlapping G-quadruplexes at an alternative 5[prime] splice site that could
+potentially regulate alternative splicing in a negative as well as a positive way
+in the MECP2 pre-mRNAs.
+CONCLUSIONS: A Rett syndrome mutation with decreased protein expression was found
+to be associated with a conserved G-quadruplex. Our studies suggest that MECP2
+post-transcriptional gene expression could be regulated by several evolutionarily
+conserved cis-elements like G-quadruplex motifs, microRNA target sites, and
+AU-rich elements. This phylogenetic analysis has provided some interesting and
+valuable insights into the regulation of the MECP2 gene involved in autism.
+
+PMID: 24040966  [PubMed - as supplied by publisher]
+
+
+13. BMC Genomics. 2013 Sep 16;14(1):625. [Epub ahead of print]
+
+Stem cells isolated from adipose tissue of obese patients show changes in their
+transcriptomic profile that indicate loss in stemcellness and increased
+commitment to an adipocyte-like phenotype.
+
+Oñate B, Vilahur G, Camino-López S, Díez-Caballero A, Ballesta-López C, Ybarra J,
+Moscatiello F, Herrero J, Badimon L.
+
+BACKGROUND: The adipose tissue is an endocrine regulator and a risk factor for
+atherosclerosis and cardiovascular disease when by excessive accumulation induces
+obesity. Although the adipose tissue is also a reservoir for stem cells (ASC)
+their function and "stemcellness" has been questioned. Our aim was to investigate
+the mechanisms by which obesity affects subcutaneous white adipose tissue (WAT)
+stem cells.
+RESULTS: Transcriptomics, in silico analysis, real-time polymerase chain reaction
+(PCR) and western blots were performed on isolated stem cells from subcutaneous
+abdominal WAT of morbidly obese patients (ASCmo) and of non-obese individuals
+(ASCn). ASCmo and ASCn gene expression clustered separately from each other.
+ASCmo showed downregulation of "stemness" genes and upregulation of adipogenic
+and inflammatory genes with respect to ASCn. Moreover, the application of
+bioinformatics and Ingenuity Pathway Analysis (IPA) showed that the transcription
+factor Smad3 was tentatively affected in obese ASCmo. Validation of this target
+confirmed a significantly reduced Smad3 nuclear translocation in the isolated
+ASCmo.
+CONCLUSIONS: The transcriptomic profile of the stem cells reservoir in obese
+subcutaneous WAT is highly modified with significant changes in genes regulating 
+stemcellness, lineage commitment and inflammation. In addition to body mass
+index, cardiovascular risk factor clustering further affect the ASC
+transcriptomic profile inducing loss of multipotency and, hence, capacity for
+tissue repair. In summary, the stem cells in the subcutaneous WAT niche of obese 
+patients are already committed to adipocyte differentiation and show an
+upregulated inflammatory gene expression associated to their loss of
+stemcellness.
+
+PMID: 24040759  [PubMed - as supplied by publisher]
+
+
+14. Helicobacter. 2013 Sep;18 Suppl 1:1-4. doi: 10.1111/hel.12069.
+
+Helicobacter pylori in 2013: Multiplying Genomes, Emerging Insights.
+
+Ahmed N, Loke MF, Kumar N, Vadivelu J.
+
+Pathogen Biology Laboratory, Department of Biotechnology and Bioinformatics,
+University of Hyderabad, Hyderabad, 500046, India; Institute of Biological
+Sciences, University of Malaya, Kuala Lumpur, 50603, Malaysia.
+
+We describe features of key additions to the existing pool of publicly accessible
+Helicobacter pylori genome sequences and sequences of Helicobacter pylori phages 
+from April 2012 to March 2013. In addition, important studies involving H.&nbsp;pylori
+genomes, especially those pertaining to genomic diversity, disease outcome,
+H.&nbsp;pylori population structure and evolution are reviewed. High degree of
+homologous recombination contributes to increased diversity of H.&nbsp;pylori genomes.
+New methods of resolving H.&nbsp;pylori population structure to an ultrafine level led
+to the proposal of new subpopulations. As the magnitude of diversity in the
+H.&nbsp;pylori gene pool becomes more and more clear, geographic and demographic
+factors should be brought to analysis while identifying disease-specific
+biomarkers and defining new virulence mechanisms.
+
+© 2013 John Wiley &amp; Sons Ltd.
+
+PMID: 24011237  [PubMed - in process]
+
+
+15. PLoS Negl Trop Dis. 2013 Sep 5;7(9):e2408. doi: 10.1371/journal.pntd.0002408.
+
+Hookworm infection and environmental factors in mbeya region, Tanzania: a
+cross-sectional, population-based study.
+
+Riess H, Clowes P, Kroidl I, Kowuor DO, Nsojo A, Mangu C, Schüle SA, Mansmann U, 
+Geldmacher C, Mhina S, Maboko L, Hoelscher M, Saathoff E.
+
+Division of Infectious Diseases and Tropical Medicine, Medical Center of the
+University of Munich, Munich, Germany ; Institute for Medical Bioinformatics,
+Biometry, and Epidemiology, Ludwig-Maximilians-University, Munich, Germany.
+
+BACKGROUND: Hookworm disease is one of the most common infections and cause of a 
+high disease burden in the tropics and subtropics. Remotely sensed ecological
+data and model-based geostatistics have been used recently to identify areas in
+need for hookworm control.
+METHODOLOGY: Cross-sectional interview data and stool samples from 6,375
+participants from nine different sites in Mbeya region, south-western Tanzania,
+were collected as part of a cohort study. Hookworm infection was assessed by
+microscopy of duplicate Kato-Katz thick smears from one stool sample from each
+participant. A geographic information system was used to obtain remotely sensed
+environmental data such as land surface temperature (LST), vegetation cover,
+rainfall, and elevation, and combine them with hookworm infection data and with
+socio-demographic and behavioral data. Uni- and multivariable logistic regression
+was performed on sites separately and on the pooled dataset.
+PRINCIPAL FINDINGS: Univariable analyses yielded significant associations for all
+ecological variables. Five ecological variables stayed significant in the final
+multivariable model: population density (odds ratio (OR) = 0.68; 95% confidence
+interval (CI) = 0.63-0.73), mean annual vegetation density (OR = 0.11; 95%
+CI = 0.06-0.18), mean annual LST during the day (OR = 0.81; 95% CI = 0.75-0.88), 
+mean annual LST during the night (OR = 1.54; 95% CI = 1.44-1.64), and latrine
+coverage in household surroundings (OR = 1.02; 95% CI = 1.01-1.04). Interaction
+terms revealed substantial differences in associations of hookworm infection with
+population density, mean annual enhanced vegetation index, and latrine coverage
+between the two sites with the highest prevalence of infection.
+CONCLUSION/SIGNIFICANCE: This study supports previous findings that remotely
+sensed data such as vegetation indices, LST, and elevation are strongly
+associated with hookworm prevalence. However, the results indicate that the
+influence of environmental conditions can differ substantially within a
+relatively small geographic area. The use of large-scale associations as a
+predictive tool on smaller scales is therefore problematic and should be handled 
+with care.
+
+PMID: 24040430  [PubMed - in process]
+
+
+16. PLoS One. 2013 Sep 6;8(9):e75080. doi: 10.1371/journal.pone.0075080.
+
+IBC CARe Microarray Allelic Population Prevalences in an American Indian
+Population.
+
+Best LG, Anderson CM, Saxena R, Almoguera B, Chandrupatla H, Martin C, Falcon G, 
+Keplin K, Pearson N, Keating BJ.
+
+Science Department, Turtle Mountain Community College, Belcourt, North Dakota,
+United States of America ; School of Medicine and Health Sciences, University of 
+North Dakota, Grand Forks, North Dakota, United States of America.
+
+BACKGROUND: The prevalence of variant alleles among single nucleotide
+polymorphisms (SNPs) is not well known for many minority populations. These
+population allele frequencies (PAFs) are necessary to guide genetic epidemiology 
+studies and to understand the population specific contribution of these variants 
+to disease risk. Large differences in PAF among certain functional groups of
+genes could also indicate possible selection pressure or founder effects of
+interest. The 50K SNP, custom genotyping microarray (CARe) was developed,
+focusing on about 2,000 candidate genes and pathways with demonstrated
+pathophysiologic influence on cardiovascular disease (CVD).
+METHODS: The CARe microarray was used to genotype 216 unaffected controls in a
+study of pre-eclampsia among a Northern Plains, American Indian tribe. The
+allelic prevalences of 34,240 SNPs suitable for analysis, were determined and
+compared with corresponding HapMap prevalences for the Caucasian population.
+Further analysis was conducted to compare the frequency of statistically
+different prevalences among functionally related SNPs, as determined by the DAVID
+Bioinformatics Resource.
+RESULTS: Of the SNPs with PAFs in both datasets, 9.8%,37.2% and 47.1% showed
+allele frequencies among the American Indian population greater than, less than
+and either greater or less than (respectively) the HapMap Caucasian population.
+The 2,547 genes were divided into 53 functional groups using the highest
+stringency criteria. While none of these groups reached the Bonferroni corrected 
+p value of 0.00094, there were 7 of these 53 groups with significantly more or
+less differing PAFs, each with a probability of less than 0.05 and an overall
+probability of 0.0046.
+CONCLUSION: In comparison to the HapMap Caucasian population, there are
+substantial differences in the prevalence among an American Indian community of
+SNPs related to CVD. Certain functional groups of genes and related SNPs show
+possible evidence of selection pressure or founder effects.
+
+PMID: 24040389  [PubMed - in process]
+
+
+17. PLoS One. 2013 Sep 9;8(9):e75012. doi: 10.1371/journal.pone.0075012.
+
+Differentially Expressed MicroRNAs in Chondrocytes from Distinct Regions of
+Developing Human Cartilage.
+
+McAlinden A, Varghese N, Wirthlin L, Chang LW.
+
+Department of Orthopaedic Surgery, Washington University, St Louis, Missouri,
+United States of America ; Department of Cell Biology and Physiology, Washington 
+University, St Louis, Missouri, United States of America.
+
+There is compelling in vivo evidence from reports on human genetic mutations and 
+transgenic mice that some microRNAs (miRNAs) play an important functional role in
+regulating skeletal development and growth. A number of published in vitro
+studies also point toward a role for miRNAs in controlling chondrocyte gene
+expression and differentiation. However, information on miRNAs that may regulate 
+a specific phase of chondrocyte differentiation (i.e. production of progenitor,
+differentiated or hypertrophic chondrocytes) is lacking. To attempt to bridge
+this knowledge gap, we have investigated miRNA expression patterns in human
+embryonic cartilage tissue. Specifically, a developmental time point was
+selected, prior to endochondral ossification in the embryonic limb, to permit
+analysis of three distinct populations of chondrocytes. The location of
+chondroprogenitor cells, differentiated chondrocytes and hypertrophic
+chondrocytes in gestational day 54-56 human embryonic limb tissue sections was
+confirmed both histologically and by specific collagen expression patterns. Laser
+capture microdissection was utilized to separate the three chondrocyte
+populations and a miRNA profiling study was carried out using TaqMan® OpenArray® 
+Human MicroRNA Panels (Applied Biosystems®). Here we report on abundantly
+expressed miRNAs in human embryonic cartilage tissue and, more importantly, we
+have identified miRNAs that are significantly differentially expressed between
+precursor, differentiated and hypertrophic chondrocytes by 2-fold or more. Some
+of the miRNAs identified in this study have been described in other aspects of
+cartilage or bone biology, while others have not yet been reported in
+chondrocytes. Finally, a bioinformatics approach was applied to begin to decipher
+developmental cellular pathways that may be regulated by groups of differentially
+expressed miRNAs during distinct stages of chondrogenesis. Data obtained from
+this work will serve as an important resource of information for the field of
+cartilage biology and will enhance our understanding of miRNA-driven mechanisms
+regulating cartilage and endochondral bone development, regeneration and repair.
+
+PMID: 24040378  [PubMed - in process]
+
+
+18. PLoS One. 2013 Sep 9;8(9):e74562. doi: 10.1371/journal.pone.0074562.
+
+Integrative Bioinformatics Links HNF1B with Clear Cell Carcinoma and
+Tumor-Associated Thrombosis.
+
+Cuff J, Salari K, Clarke N, Esheba GE, Forster AD, Huang S, West RB, Higgins JP, 
+Longacre TA, Pollack JR.
+
+Department of Pathology, Stanford University, Stanford, California, United States
+of America.
+
+Clear cell carcinoma (CCC) is a histologically distinct carcinoma subtype that
+arises in several organ systems and is marked by cytoplasmic clearing, attributed
+to abundant intracellular glycogen. Previously, transcription factor hepatocyte
+nuclear factor 1-beta (HNF1B) was identified as a biomarker of ovarian CCC. Here,
+we set out to explore more broadly the relation between HNF1B and carcinomas with
+clear cell histology. HNF1B expression, evaluated by immunohistochemistry, was
+significantly associated with clear cell histology across diverse gynecologic and
+renal carcinomas (P&lt;0.001), as was hypomethylation of the HNF1B promoter
+(P&lt;0.001). From microarray analysis, an empirically-derived HNF1B signature was
+significantly enriched for computationally-predicted targets (with HNF1 binding
+sites) (P&lt;0.03), as well as genes associated with glycogen metabolism, including 
+glucose-6-phophatase, and strikingly the blood clotting cascade, including
+fibrinogen, prothrombin and factor XIII. Enrichment of the clotting cascade was
+also evident in microarray data from ovarian CCC versus other histotypes
+(P&lt;0.01), and HNF1B-associated prothrombin expression was verified by
+immunohistochemistry (P = 0.015). Finally, among gynecologic carcinomas with
+cytoplasmic clearing, HNF1B immunostaining was linked to a 3.0-fold increased
+risk of clinically-significant venous thrombosis (P = 0.043), and with a 2.3-fold
+increased risk (P = 0.011) in a combined gynecologic and renal carcinoma cohort. 
+Our results define HNF1B as a broad marker of clear cell phenotype, and support a
+mechanistic link to glycogen accumulation and thrombosis, possibly reflecting
+(for gynecologic CCC) derivation from secretory endometrium. Our findings also
+implicate a novel mechanism of tumor-associated thrombosis (a major cause of
+cancer mortality), based on the direct production of clotting factors by cancer
+cells.
+
+PMID: 24040285  [PubMed - in process]
+
+
+19. PLoS One. 2013 Sep 9;8(9):e74506. doi: 10.1371/journal.pone.0074506.
+
+The VHSE-Based Prediction of Proteasomal Cleavage Sites.
+
+Xie J, Xu Z, Zhou S, Pan X, Cai S, Yang L, Mei H.
+
+Key Laboratory of Dependence Service Computing in Cyber Physical Society,
+Ministry of Education, Chongqing, China ; College of Computer Science, Chongqing 
+University, Chongqing, China.
+
+Prediction of proteasomal cleavage sites has been a focus of computational
+biology. Up to date, the predictive methods are mostly based on nonlinear
+classifiers and variables with little physicochemical meanings. In this paper,
+the physicochemical properties of 14 residues both upstream and downstream of a
+cleavage site are characterized by VHSE (principal component score vector of
+hydrophobic, steric, and electronic properties) descriptors. Then, the resulting 
+VHSE descriptors are employed to construct prediction models by support vector
+machine (SVM). For both in vivo and in vitro datasets, the performance of
+VHSE-based method is comparatively better than that of the well-known PAProC,
+MAPPP, and NetChop methods. The results reveal that the hydrophobic property of
+10 residues both upstream and downstream of the cleavage site is a dominant
+factor affecting in vivo and in vitro cleavage specificities, followed by
+residue's electronic and steric properties. Furthermore, the difference in
+hydrophobic potential between residues flanking the cleavage site is proposed to 
+favor substrate cleavages. Overall, the interpretable VHSE-based method provides 
+a preferable way to predict proteasomal cleavage sites.
+
+PMID: 24040264  [PubMed - in process]
+
+
+20. PLoS One. 2013 Sep 5;8(9):e74275. doi: 10.1371/journal.pone.0074275.
+
+FastDMA: An Infinium HumanMethylation450 Beadchip Analyzer.
+
+Wu D, Gu J, Zhang MQ.
+
+Bioinformatics Division/Center for Synthetic and Systems Biology, Tsinghua
+National Laboratory for Information Science and Technology (TNLIST), Department
+of Automation, Tsinghua University, Beijing, China.
+
+DNA methylation is vital for many essential biological processes and human
+diseases. Illumina Infinium HumanMethylation450 Beadchip is a recently developed 
+platform studying genome-wide DNA methylation state on more than 480,000 CpG
+sites and a few CHG sites with high data quality. To analyze the data of this
+promising platform, we developed FastDMA which can be used to identify
+significantly differentially methylated probes. Besides single probe analysis,
+FastDMA can also do region-based analysis for identifying the differentially
+methylated region (DMRs). A uniformed statistical model, analysis of covariance
+(ANCOVA), is used to achieve all the analyses in FastDMA. We apply FastDMA on
+three large-scale DNA methylation datasets from The Cancer Genome Atlas (TCGA)
+and find many differentially methylated genomic sites in different types of
+cancer. On the testing datasets, FastDMA shows much higher computational
+efficiency than current tools. FastDMA can benefit the data analyses of
+large-scale DNA methylation studies with an integrative pipeline and a high
+computational efficiency. The software is freely available via
+http://bioinfo.au.tsinghua.edu.cn/software/fastdma/.
+
+PMID: 24040221  [PubMed - in process]
+
+
+21. PLoS One. 2013 Sep 5;8(9):e74271. doi: 10.1371/journal.pone.0074271.
+
+Experimentally Validated Novel Inhibitors of Helicobacter pylori
+Phosphopantetheine Adenylyltransferase Discovered by Virtual High-Throughput
+Screening.
+
+Cheng CS, Jia KF, Chen T, Chang SY, Lin MS, Yin HS.
+
+Institute of Bioinformatics and Structural Biology and College of Life Sciences, 
+National Tsing Hua University, Hsinchu, Taiwan.
+
+Helicobacter pylori is a major etiologic agent associated with the development
+and maintenance of&nbsp;human gastritis. The goal of this study was to develop novel
+antibiotics against H. pylori, and we thus targeted H. pylori phosphopantetheine 
+adenylyltransferase (HpPPAT). PPAT catalyzes the penultimate step in coenzyme A
+biosynthesis. Its inactivation effectively prevents bacterial viability, making
+it an attractive target for antibacterial drug discovery. We employed virtual
+high-throughput screening and the HpPPAT crystal structure to identify compounds 
+in the PubChem database that might act as inhibitors of HpPPAT. d-amethopterin is
+a potential inhibitor for blocking HpPPAT activity and suppressing H. pylori
+viability. Following treatment with d-amethopterin, H. pylori exhibited
+morphological characteristics associated with cell death. d-amethopterin is a
+mixed inhibitor of HpPPAT activity; it simultaneously occupies the HpPPAT
+4'-phosphopantetheine- and ATP-binding sites. Its binding affinity is in the
+micromolar range, implying that it is sufficiently potent to serve as a lead
+compound in subsequent drug development. Characterization of the d-amethopterin
+and HpPPAT interaction network in a docked model will allow us to initiate
+rational drug optimization to improve the inhibitory efficacy of d-amethopterin. 
+We anticipate that novel, potent, and selective HpPPAT inhibitors will emerge for
+the treatment of H. pylori infection.
+
+PMID: 24040220  [PubMed - in process]
+
+
+22. PLoS One. 2013 Sep 11;8(9):e74205. doi: 10.1371/journal.pone.0074205.
+
+Systems-Based Identification of Temporal Processing Pathways during Bone Cell
+Mechanotransduction.
+
+Worton LE, Ausk BJ, Downey LM, Bain SD, Gardiner EM, Srinivasan S, Gross TS, Kwon
+RY.
+
+Department of Orthopaedics and Sports Medicine, University of Washington,
+Seattle, Washington, United States of America.
+
+Bone has long been established to be a highly mechanosensitive tissue. When
+subjected to mechanical loading, bone exhibits profoundly different anabolic
+responses depending on the temporal pattern in which the stimulus is applied.
+This phenomenon has been termed temporal processing, and involves complex signal 
+amplification mechanisms that are largely unidentified. In this study, our goal
+was to characterize transcriptomic perturbations arising from the insertion of
+intermittent rest periods (a temporal variation with profound effects on bone
+anabolism) in osteoblastic cells subjected to fluid flow, and assess the utility 
+of these perturbations to identify signaling pathways that are differentially
+activated by this temporal variation. At the level of the genome, we found that
+the common and differential alterations in gene expression arising from the two
+flow conditions were distributionally distinct, with the differential alterations
+characterized by many small changes in a large number of genes. Using
+bioinformatics analysis, we identified distinct up- and down-regulation
+transcriptomic signatures associated with the insertion of rest intervals, and
+found that the up-regulation signature was significantly associated with MAPK
+signaling. Confirming the involvement of the MAPK pathway, we found that the
+insertion of rest intervals significantly elevated flow-induced p-ERK1/2 levels
+by enabling a second spike in activity that was not observed in response to
+continuous flow. Collectively, these studies are the first to characterize
+distinct transcriptomic perturbations in bone cells subjected to continuous and
+intermittent stimulation, and directly demonstrate the utility of systems-based
+transcriptomic analysis to identify novel acute signaling pathways underlying
+temporal processing in bone cells.
+
+PMID: 24040202  [PubMed - in process]
+
+
+23. PLoS One. 2013 Sep 10;8(9):e73985. doi: 10.1371/journal.pone.0073985.
+
+miR-203 Inhibits Cell Proliferation and Migration of Lung Cancer Cells by
+Targeting PKCα.
+
+Wang C, Wang X, Liang H, Wang T, Yan X, Cao M, Wang N, Zhang S, Zen K, Zhang C,
+Chen X.
+
+Jiangsu Engineering Research Center for microRNA Biology and Biotechnology, State
+Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences, Nanjing 
+University, Nanjing, Jiangsu, China.
+
+PKCα (protein kinase C alpha, PRKCA) is an important protein involved in several 
+steps of signaling pathways in lung cancer, and microRNAs (miRNAs) have also been
+shown to participate in lung carcinogenesis. However, it is not clear how PKCα
+and miRNAs are correlated in the disease. In this report, we aimed to identify
+novel miRNAs that target PKCα and to study their biological function. Using
+bioinformatics analysis, we predicted one novel candidate, miR-203, and found
+differential expression patterns of miR-203 and PKCα in human lung cancer
+tissues. Moreover, we experimentally validated miR-203 as a direct regulator of
+PKCα. Finally, we demonstrated that the targeting of PKCα by miR-203 played a
+critical role in regulating cell proliferation, apoptosis and migration in lung
+cancer cells. In summary, this study identifies a novel miRNA that targets PKCα
+and illustrates that the downregulation of PKCα by miR-203 modulates biological
+processes in lung cancer cells.
+
+PMID: 24040137  [PubMed - in process]
+
+
+24. PLoS One. 2013 Sep 5;8(9):e73943. doi: 10.1371/journal.pone.0073943.
+
+Transimulation - protein biosynthesis web service.
+
+Siwiak M, Zielenkiewicz P.
+
+Department of Bioinformatics, Institute of Biochemistry and Biophysics, Polish
+Academy of Sciences, Warsaw, Poland.
+
+Although translation is the key step during gene expression, it remains poorly
+characterized at the level of individual genes. For this reason, we developed
+Transimulation - a web service measuring translational activity of genes in three
+model organisms: Escherichia coli, Saccharomyces cerevisiae and Homo sapiens. The
+calculations are based on our previous computational model of translation and
+experimental data sets. Transimulation quantifies mean translation initiation and
+elongation time (expressed in SI units), and the number of proteins produced per 
+transcript. It also approximates the number of ribosomes that typically occupy a 
+transcript during translation, and simulates their propagation. The simulation of
+ribosomes' movement is interactive and allows modifying the coding sequence on
+the fly. It also enables uploading any coding sequence and simulating its
+translation in one of three model organisms. In such a case, ribosomes propagate 
+according to mean codon elongation times of the host organism, which may prove
+useful for heterologous expression. Transimulation was used to examine
+evolutionary conservation of translational parameters of orthologous genes.
+Transimulation may be accessed at http://nexus.ibb.waw.pl/Transimulation
+(requires Java version 1.7 or higher). Its manual and source code, distributed
+under the GPL-2.0 license, is freely available at the website.
+
+PMID: 24040122  [PubMed - in process]
+
+
+25. PLoS One. 2013 Sep 10;8(9):e73938. doi: 10.1371/journal.pone.0073938.
+
+A toxicogenomic approach for the prediction of murine hepatocarcinogenesis using 
+ensemble feature selection.
+
+Eichner J, Kossler N, Wrzodek C, Kalkuhl A, Bach Toft D, Ostenfeldt N, Richard V,
+Zell A.
+
+Center for Bioinformatics Tuebingen (ZBIT), University of Tuebingen, Tübingen,
+Germany.
+
+The current strategy for identifying the carcinogenicity of drugs involves the
+2-year bioassay in male and female rats and mice. As this assay is cost-intensive
+and time-consuming there is a high interest in developing approaches for the
+screening and prioritization of drug candidates in preclinical safety
+evaluations. Predictive models based on toxicogenomics investigations after
+short-term exposure have shown their potential for assessing the carcinogenic
+risk. In this study, we investigated a novel method for the evaluation of
+toxicogenomics data based on ensemble feature selection in conjunction with
+bootstrapping for the purpose to derive reproducible and characteristic
+multi-gene signatures. This method was evaluated on a microarray dataset
+containing global gene expression data from liver samples of both male and female
+mice. The dataset was generated by the IMI MARCAR consortium and included gene
+expression profiles of genotoxic and nongenotoxic hepatocarcinogens obtained
+after treatment of CD-1 mice for 3 or 14 days. We developed predictive models
+based on gene expression data of both sexes and the models were employed for
+predicting the carcinogenic class of diverse compounds. Comparing the
+predictivity of our multi-gene signatures against signatures from literature, we 
+demonstrated that by incorporating our gene sets as features slightly higher
+accuracy is on average achieved by a representative set of state-of-the art
+supervised learning methods. The constructed models were also used for the
+classification of Cyproterone acetate (CPA), Wy-14643 (WY) and Thioacetamid
+(TAA), whose primary mechanism of carcinogenicity is controversially discussed.
+Based on the extracted mouse liver gene expression patterns, CPA would be
+predicted as a nongenotoxic compound. In contrast, both WY and TAA would be
+classified as genotoxic mouse hepatocarcinogens.
+
+PMID: 24040119  [PubMed - in process]
+
+
+26. PLoS One. 2013 Sep 5;8(9):e73365. doi: 10.1371/journal.pone.0073365.
+
+Predictive Computational Modeling of the Mucosal Immune Responses during
+Helicobacter pylori Infection.
+
+Carbo A, Bassaganya-Riera J, Pedragosa M, Viladomiu M, Marathe M, Eubank S,
+Wendelsdorf K, Bisset K, Hoops S, Deng X, Alam M, Kronsteiner B, Mei Y,
+Hontecillas R.
+
+Nutritional Immunology and Molecular Medicine Laboratory, Virginia Bioinformatics
+Institute, Virginia Tech, Blacksburg, Virginia, United States of America ; Center
+for Modeling Immunity to Enteric Pathogens Virginia Bioinformatics Institute,
+Virginia Tech, Blacksburg, Virginia, United States of America.
+
+T helper (Th) cells play a major role in the immune response and pathology at the
+gastric mucosa during Helicobacter pylori infection. There is a limited
+mechanistic understanding regarding the contributions of CD4+ T cell subsets to
+gastritis development during H. pylori colonization. We used two computational
+approaches: ordinary differential equation (ODE)-based and agent-based modeling
+(ABM) to study the mechanisms underlying cellular immune responses to H. pylori
+and how CD4+ T cell subsets influenced initiation, progression and outcome of
+disease. To calibrate the model, in vivo experimentation was performed by
+infecting C57BL/6 mice intragastrically with H. pylori and assaying immune cell
+subsets in the stomach and gastric lymph nodes (GLN) on days 0, 7, 14, 30 and 60 
+post-infection. Our computational model reproduced the dynamics of effector and
+regulatory pathways in the gastric lamina propria (LP) in silico. Simulation
+results show the induction of a Th17 response and a dominant Th1 response,
+together with a regulatory response characterized by high levels of mucosal Treg)
+cells. We also investigated the potential role of peroxisome
+proliferator-activated receptor γ (PPARγ) activation on the modulation of host
+responses to H. pylori by using loss-of-function approaches. Specifically, in
+silico results showed a predominance of Th1 and Th17 cells in the stomach of the 
+cell-specific PPARγ knockout system when compared to the wild-type simulation.
+Spatio-temporal, object-oriented ABM approaches suggested similar dynamics in
+induction of host responses showing analogous T cell distributions to ODE
+modeling and facilitated tracking lesion formation. In addition, sensitivity
+analysis predicted a crucial contribution of Th1 and Th17 effector responses as
+mediators of histopathological changes in the gastric mucosa during chronic
+stages of infection, which were experimentally validated in mice. These
+integrated immunoinformatics approaches characterized the induction of mucosal
+effector and regulatory pathways controlled by PPARγ during H. pylori infection
+affecting disease outcomes.
+
+PMID: 24039925  [PubMed - in process]
+
+
+27. PLoS One. 2013 Sep 9;8(9):e73240. doi: 10.1371/journal.pone.0073240.
+
+Beta Cell 5'-Shifted isomiRs Are Candidate Regulatory Hubs in Type 2 Diabetes.
+
+Baran-Gale J, Fannin EE, Kurtz CL, Sethupathy P.
+
+Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill,
+North Carolina, United States of America ; Curriculum in Bioinformatics and
+Computational Biology, University of North Carolina at Chapel Hill, Chapel Hill, 
+North Carolina, United States of America.
+
+Next-generation deep sequencing of small RNAs has unveiled the complexity of the 
+microRNA (miRNA) transcriptome, which is in large part due to the diversity of
+miRNA sequence variants ("isomiRs"). Changes to a miRNA's seed sequence
+(nucleotides 2-8), including shifted start positions, can redirect targeting to a
+dramatically different set of RNAs and alter biological function. We performed
+deep sequencing of small RNA from mouse insulinoma (MIN6) cells (widely used as a
+surrogate for the study of pancreatic beta cells) and developed a bioinformatic
+analysis pipeline to profile isomiR diversity. Additionally, we applied the
+pipeline to recently published small RNA-seq data from primary human beta cells
+and whole islets and compared the miRNA profiles with that of MIN6. We found
+that: (1) the miRNA expression profile in MIN6 cells is highly correlated with
+those of primary human beta cells and whole islets; (2) miRNA loci can generate
+multiple highly expressed isomiRs with different 5'-start positions (5'-isomiRs);
+(3) isomiRs with shifted start positions (5'-shifted isomiRs) are highly
+expressed, and can be as abundant as their unshifted counterparts (5'-reference
+miRNAs). Finally, we identified 10 beta cell miRNA families as candidate
+regulatory hubs in a type 2 diabetes (T2D) gene network. The most significant
+candidate hub was miR-29, which we demonstrated regulates the mRNA levels of
+several genes critical to beta cell function and implicated in T2D. Three of the 
+candidate miRNA hubs were novel 5'-shifted isomiRs: miR-375+1, miR-375-1 and
+miR-183-5p+1. We showed by in silico target prediction and in vitro transfection 
+studies that both miR-375+1 and miR-375-1 are likely to target an overlapping,
+but distinct suite of beta cell genes compared to canonical miR-375. In summary, 
+this study characterizes the isomiR profile in beta cells for the first time, and
+also highlights the potential functional relevance of 5'-shifted isomiRs to T2D.
+
+PMID: 24039891  [PubMed - in process]
+
+
+28. PLoS One. 2013 Sep 5;8(9):e73191. doi: 10.1371/journal.pone.0073191.
+
+Dissection of miRNA-miRNA Interaction in Esophageal Squamous Cell Carcinoma.
+
+Wu B, Li C, Zhang P, Yao Q, Wu J, Han J, Liao L, Xu Y, Lin R, Xiao D, Xu L, Li E,
+Li X.
+
+College of Bioinformatics Science and Technology, Harbin Medical University,
+Harbin, China ; Department of Biochemistry and Molecular Biology, The Key
+Laboratory of Molecular Biology for High Cancer Incidence Coastal Chaoshan Area, 
+Shantou University Medical College, Shantou, China.
+
+The relationships between miRNAs and their regulatory influences in esophageal
+carcinoma remain largely unknown. Accumulated evidence suggests that delineation 
+of subpathways within an entire pathway can underlie complex diseases. To analyze
+the regulation of differentially expressed miRNAs in subpathways of esophageal
+squamous cell carcinoma (ESCC), we constructed bipartite miRNA and subpathway
+networks to determine miRNA regulatory influences on subpathways. The
+miRNA-subpathway network indicated that miRNAs regulate numerous subpathways. Two
+principal biological networks were derived from the miRNA-subpathway network by
+the hypergeometric test. This miRNA-miRNA network revealed the co-regulation of
+subpathways between the upregulated and downregulated miRNAs.
+Subpathway-subpathway networks characterized scale free, small world, and modular
+architecture. K-clique analysis revealed co-regulation of subpathways between
+certain downregulated and upregulated miRNAs. When ESCC patients were grouped
+according to their expression levels of paired upregulation of miR-31 and
+downregulation of miR-338-3p, survival time analysis revealed a significant
+difference based on miR-31-miR-338-3p interaction. These findings can facilitate 
+the understanding of the biological meaning of miRNA-miRNA interactions with
+either the same or opposite expression trend.
+
+PMID: 24039884  [PubMed - in process]
+
+
+29. PLoS One. 2013 Sep 9;8(9):e72842. doi: 10.1371/journal.pone.0072842.
+
+Global Features of Gene Expression on the Proteome and Transcriptome Levels in S.
+coelicolor during Germination.
+
+Strakova E, Bobek J, Zikova A, Vohradsky J.
+
+Laboratory of Bioinformatics, Institute of Microbiology, Academy of Sciences of
+the Czech Republic, Prague, Czech Republic.
+
+Streptomycetes have been studied mostly as producers of secondary metabolites,
+while the transition from dormant spores to an exponentially growing culture has 
+largely been ignored. Here, we focus on a comparative analysis of fluorescently
+and radioactively labeled proteome and microarray acquired transcriptome
+expressed during the germination of Streptomyces coelicolor. The time-dynamics is
+considered, starting from dormant spores through 5.5 hours of growth with 13 time
+points. Time series of the gene expressions were analyzed using correlation,
+principal components analysis and an analysis of coding genes utilization.
+Principal component analysis was used to identify principal kinetic trends in
+gene expression and the corresponding genes driving S. coelicolor germination. In
+contrast with the correlation analysis, global trends in the gene/protein
+expression reflected by the first principal components showed that the prominent 
+patterns in both the protein and the mRNA domains are surprisingly well
+correlated. Analysis of the number of expressed genes identified functional
+groups activated during different time intervals of the germination.
+
+PMID: 24039809  [PubMed - in process]
+
+
+30. PLoS One. 2013 Sep 5;8(9):e72423. doi: 10.1371/journal.pone.0072423.
+
+Association of Two Variants in SMAD7 with the Risk of Congenital Heart Disease in
+the Han Chinese Population.
+
+Wang E, Jin W, Duan W, Qiao B, Sun S, Huang G, Shi K, Jin L, Wang H.
+
+Chinese Academy of Sciences and Max Planck Society (CAS-MPG) Partner Institute
+for Computational Biology, Shanghai Institutes for Biological Sciences, Chinese
+Academy of Sciences, Shanghai, China ; The State Key Laboratory of Genetic
+Engineering and Ministry of Education (MOE) Key Laboratory of Contemporary
+Anthropology, School of Life Sciences, Fudan University, Shanghai, China.
+
+SMAD7 is a general antagonist of TGF-β signaling and has been found to be
+involved in cardiogenesis in mouse models, but its role in human congenital heart
+disease (CHD) has yet to be investigated. To examine if SMAD7 is associated with 
+CHD, we conducted a case-control study in the Han Chinese population. Exon1 and
+exon4 of SMAD7, which encode the functional MH1 and MH2 domains, were directly
+sequenced in 1,201 sporadic CHD patients and 1,116 control individuals. A total
+of 18 sequence variations were identified. Two common variants rs3809922 and
+rs3809923 are located at exon4 of SMAD7, and were found in strong linkage
+disequilibrium with each other (r (2) = 0.93). We analyzed the association of
+these two loci with CHD in 3 independent subgroup case-control studies, and found
+that in some subgroups, rs3809922 and rs3809923 were significantly associated
+with CHD through genetic model analysis. In the combined data set, TT genotype in
+rs3809922 significantly increased the risk of CHD compared with CC and CT, while 
+GG genotype in rs3809923 significantly increased the risk of CHD compared with CC
+and CG, particularly in the recessive model. In addition, haplotype analyses
+showed that haplotype TG significantly increased the risk of CHD
+(P = 6.9×10(-6)); this finding supports the results from the analyses based on
+single locus. According to data from the 1000 Genomes Project, the frequencies of
+the two risk alleles varied greatly between populations worldwide, which indicate
+the identified associations might have a population difference. To our knowledge,
+this is the first report that genetic variants in SMAD7 influence susceptibility 
+to CHD risk.
+
+PMID: 24039762  [PubMed - in process]
+
+
+31. PLoS One. 2013 Sep 5;8(9):e72366. doi: 10.1371/journal.pone.0072366.
+
+C-element: A New Clustering Algorithm to Find High Quality Functional Modules in 
+PPI Networks.
+
+Ghasemi M, Rahgozar M, Bidkhori G, Masoudi-Nejad A.
+
+Laboratory of Systems Biology and Bioinformatics (LBB), Institute of Biochemistry
+and Biophysics, University of Tehran, Tehran, Iran ; Database Research Group
+(DBRG), Control and Intelligent Processing Center of Excellence (CIPCE), School
+of Electrical and Computer Engineering, College of Engineering, University of
+Tehran, Tehran, Iran.
+
+Graph clustering algorithms are widely used in the analysis of biological
+networks. Extracting functional modules in protein-protein interaction (PPI)
+networks is one such use. Most clustering algorithms whose focuses are on finding
+functional modules try either to find a clique like sub networks or to grow
+clusters starting from vertices with high degrees as seeds. These algorithms do
+not make any difference between a biological network and any other networks. In
+the current research, we present a new procedure to find functional modules in
+PPI networks. Our main idea is to model a biological concept and to use this
+concept for finding good functional modules in PPI networks. In order to evaluate
+the quality of the obtained clusters, we compared the results of our algorithm
+with those of some other widely used clustering algorithms on three high
+throughput PPI networks from Sacchromyces Cerevisiae, Homo sapiens and
+Caenorhabditis elegans as well as on some tissue specific networks. Gene Ontology
+(GO) analyses were used to compare the results of different algorithms. Each
+algorithm's result was then compared with GO-term derived functional modules. We 
+also analyzed the effect of using tissue specific networks on the quality of the 
+obtained clusters. The experimental results indicate that the new algorithm
+outperforms most of the others, and this improvement is more significant when
+tissue specific networks are used.
+
+PMID: 24039752  [PubMed - in process]
+
+
+32. PLoS One. 2013 Sep 9;8(9):e69724. doi: 10.1371/journal.pone.0069724.
+
+Simulating an Infection Growth Model in Certain Healthy Metabolic Pathways of
+Homo sapiens for Highlighting Their Role in Type I Diabetes mellitus Using
+Fire-Spread Strategy, Feedbacks and Sensitivities.
+
+Tagore S, De RK.
+
+Department of Biotechnology and Bioinformatics, Padmashree Dr. D. Y. Patil
+University, Navi Mumbai, India.
+
+Disease Systems Biology is an area of life sciences, which is not very well
+understood to date. Analyzing infections and their spread in healthy metabolite
+networks can be one of the focussed areas in this regard. We have proposed a
+theory based on the classical forest fire model for analyzing the path of
+infection spread in healthy metabolic pathways. The theory suggests that when
+fire erupts in a forest, it spreads, and the surrounding trees also catch fire.
+Similarly, when we consider a metabolic network, the infection caused in the
+metabolites of the network spreads like a fire. We have constructed a simulation 
+model which is used to study the infection caused in the metabolic networks from 
+the start of infection, to spread and ultimately combating it. For
+implementation, we have used two approaches, first, based on quantitative
+strategies using ordinary differential equations and second, using graph-theory
+based properties. Furthermore, we are using certain probabilistic scores to
+complete this task and for interpreting the harm caused in the network, given by 
+a 'critical value' to check whether the infection can be cured or not. We have
+tested our simulation model on metabolic pathways involved in Type I Diabetes
+mellitus in Homo sapiens. For validating our results biologically, we have used
+sensitivity analysis, both local and global, as well as for identifying the role 
+of feedbacks in spreading infection in metabolic pathways. Moreover, information 
+in literature has also been used to validate the results. The metabolic network
+datasets have been collected from the Kyoto Encyclopedia of Genes and Genomes
+(KEGG).
+
+PMID: 24039701  [PubMed - in process]
+
+
+33. Per Med. 2013 Jul 1;10(5):453-462.
+
+Personalized medicine: challenges and opportunities for translational
+bioinformatics.
+
+Overby CL, Tarczy-Hornoch P.
+
+Program in Personalized &amp; Genomic Medicine and Department of Medicine, University
+of Maryland School of Medicine, Baltimore, MD, USA.
+
+Personalized medicine can be defined broadly as a model of healthcare that is
+predictive, personalized, preventive and participatory. Two US President's
+Council of Advisors on Science and Technology reports illustrate challenges in
+personalized medicine (in a 2008 report) and in use of health information
+technology (in a 2010 report). Translational bioinformatics is a field that can
+help address these challenges and is defined by the American Medical Informatics 
+Association as "the development of storage, analytic and interpretive methods to 
+optimize the transformation of increasing voluminous biomedical data into
+proactive, predictive, preventative and participatory health." This article
+discusses barriers to implementing genomics applications and current progress
+toward overcoming barriers, describes lessons learned from early experiences of
+institutions engaged in personalized medicine and provides example areas for
+translational bioinformatics research inquiry.
+
+PMID: 24039624  [PubMed]
+
+
+34. PLoS Comput Biol. 2013 Sep;9(9):e1003168. doi: 10.1371/journal.pcbi.1003168. Epub
+2013 Sep 5.
+
+Finding Associations among Histone Modifications Using Sparse Partial Correlation
+Networks.
+
+Lasserre J, Chung HR, Vingron M.
+
+Computational Molecular Biology, MPI for Molecular Genetics, Berlin, Germany.
+
+Histone modifications are known to play an important role in the regulation of
+transcription. While individual modifications have received much attention in
+genome-wide analyses, little is known about their relationships. Some authors
+have built Bayesian networks of modifications, however most often they have used 
+discretized data, and relied on unrealistic assumptions such as the absence of
+feedback mechanisms or hidden confounding factors. Here, we propose to infer
+undirected networks based on partial correlations between histone modifications. 
+Within the partial correlation framework, correlations among two variables are
+controlled for associations induced by the other variables. Partial correlation
+networks thus focus on direct associations of histone modifications. We apply
+this methodology to data in CD4+ cells. The resulting network is well supported
+by common knowledge. When pairs of modifications show a large difference between 
+their correlation and their partial correlation, a potential confounding factor
+is identified and provided as explanation. Data from different cell types (IMR90,
+H1) is also exploited in the analysis to assess the stability of the networks.
+The results are remarkably similar across cell types. Based on this observation, 
+the networks from the three cell types are integrated into a consensus network to
+increase robustness. The data and the results discussed in the manuscript can be 
+found, together with code, on http://spcn.molgen.mpg.de/index.html.
+
+PMID: 24039558  [PubMed - in process]
+
+
+35. Int j numer method biomed eng. 2013 Aug 30. doi: 10.1002/cnm.2584. [Epub ahead of
+print]
+
+Mathematical modeling of postmenopausal osteoporosis and its treatment by the
+anti-catabolic drug denosumab.
+
+Scheiner S, Pivonka P, Smith DW, Dunstan CR, Hellmich C.
+
+Institute for Mechanics of Materials and Structures, Vienna University of
+Technology, Austria.
+
+Denosumab, a fully human monoclonal antibody, has been approved for the treatment
+of postmenopausal osteoporosis. The therapeutic effect of denosumab rests on its 
+ability to inhibit osteoclast differentiation. Here, we present a computational
+approach on the basis of coupling a pharmacokinetics model of denosumab with a
+pharmacodynamics model for quantifying the effect of denosumab on bone
+remodeling. The pharmacodynamics model comprises an integrated systems
+biology-continuum micromechanics approach, including a bone cell population
+model, considering the governing biochemical factors of bone remodeling
+(including the action of denosumab), and a multiscale micromechanics-based bone
+mechanics model, for implementing the mechanobiology of bone remodeling in our
+model. Numerical studies of postmenopausal osteoporosis show that denosumab
+suppresses osteoclast differentiation, thus strongly curtailing bone resorption. 
+Simulation results also suggest that denosumab may trigger a short-term bone
+volume gain, which is, however, followed by constant or decreasing bone volume.
+This evolution is accompanied by a dramatic decrease of the bone turnover rate by
+more than one order of magnitude. The latter proposes dominant occurrence of
+secondary mineralization (which is not anymore impeded through cellular
+activity), leading to higher mineral concentration per bone volume. This explains
+the overall higher bone mineral density observed in denosumab-related clinical
+studies. Copyright © 2013 John Wiley &amp; Sons, Ltd.
+
+Copyright © 2013 John Wiley &amp; Sons, Ltd.
+
+PMID: 24039120  [PubMed - as supplied by publisher]
+
+
+36. Proteomics. 2013 Sep 14. doi: 10.1002/pmic.201200426. [Epub ahead of print]
+
+Classification of fish samples via an integrated proteomics and bioinformatics
+approach.
+
+Bellgard M, Taplin R, Chapman B, Livk A, Wellington C, Hunter A, Lipscombe R.
+
+Centre for Comparative Genomics, Murdoch University, Western Australia, 6150.
+
+There is increasing demand to develop cost effective and accurate approaches to
+analysing biological tissue samples. This is especially relevant in the fishing
+industry where closely related fish samples can be mislabelled, and the high
+market value of certain fish leads to the use of alternative species as
+substitutes. For example Barramundi and Nile Perch (belonging to the same genus, 
+Lates). There is a need to combine selective proteomic data sets with
+sophisticated computational analysis to devise a robust classification approach. 
+This paper describes an integrated mass spectrometry based proteomics and
+bioinformatics approach to classifying a range of fish samples. A classifier is
+developed using training data that successfully discriminates between Barramundi 
+and Nile Perch samples using a selected protein subset of the proteome.
+Additionally, the classifier is shown to successfully discriminate between test
+samples not used to develop the classifier, including samples that have been
+cooked, and to classify other fish species as neither Barramundi nor Nile Perch. 
+This approach has applications to truth in labelling for fishmongers and
+restaurants, monitoring fish catches, and for scientific research into distances 
+between species. This article is protected by copyright. All rights reserved.
+
+This article is protected by copyright. All rights reserved.
+
+PMID: 24038899  [PubMed - as supplied by publisher]
+
+
+37. Angew Chem Int Ed Engl. 2013 Aug 22. doi: 10.1002/anie.201305595. [Epub ahead of 
+print]
+
+Biosynthesis of the Antimetabolite 6-Thioguanine in Erwinia amylovora Plays a Key
+Role in Fire Blight Pathogenesis.
+
+Coyne S, Chizzali C, Khalil MN, Litomska A, Richter K, Beerhues L, Hertweck C.
+
+Dept. of Biomolecular Chemistry, Leibniz Institute for Natural Product Research
+and Infection Biology, HKI, Beutenbergstrasse 11a, 07745 Jena (Germany)
+http://www.hki-jena.de.
+
+Sulfur for fire: The molecular basis for the biosynthesis of the antimetabolite
+6-thioguanine (6TG) was unveiled in Erwinia amylovora, the causative agent of
+fire blight. Bioinformatics, heterologous pathway reconstitution in E. coli, and 
+mutational analyses indicate that the protein YcfA mediates guanine thionation in
+analogy to 2-thiouridylase. Assays in planta and in cell cultures reveal for the 
+first time a crucial role of 6TG in fire blight pathogenesis.
+
+Copyright © 2013 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.
+
+PMID: 24038828  [PubMed - as supplied by publisher]
+
+
+38. Nucleic Acids Res. 2013 Sep 13. [Epub ahead of print]
+
+Long non-coding RNA identification over mouse brain development by integrative
+modeling of chromatin and genomic features.
+
+Lv J, Liu H, Huang Z, Su J, He H, Xiu Y, Zhang Y, Wu Q.
+
+School of Life Science and Technology, State Key Laboratory of Urban Water
+Resource and Environment, Harbin Institute of Technology, Harbin 150001, China
+and College of Bioinformatics Science and Technology, Harbin Medical University, 
+Harbin 150081, China.
+
+In silico prediction of genomic long non-coding RNAs (lncRNAs) is prerequisite to
+the construction and elucidation of non-coding regulatory network. Chromatin
+modifications marked by chromatin regulators are important epigenetic features,
+which can be captured by prevailing high-throughput approaches such as ChIP
+sequencing. We demonstrate that the accuracy of lncRNA predictions can be greatly
+improved when incorporating high-throughput chromatin modifications over mouse
+embryonic stem differentiation toward adult Cerebellum by logistic regression
+with LASSO regularization. The discriminating features include H3K9me3, H3K27ac, 
+H3K4me1, open reading frames and several repeat elements. Importantly, chromatin 
+information is suggested to be complementary to genomic sequence information,
+highlighting the importance of an integrated model. Applying integrated model, we
+obtain a list of putative lncRNAs based on uncharacterized fragments from
+transcriptome assembly. We demonstrate that the putative lncRNAs have regulatory 
+roles in vicinity of known gene loci by expression and Gene Ontology enrichment
+analysis. We also show that the lncRNA expression specificity can be efficiently 
+modeled by the chromatin data with same developmental stage. The study not only
+supports the biological hypothesis that chromatin can regulate expression of
+tissue-specific or developmental stage-specific lncRNAs but also reveals the
+discriminating features between lncRNA and coding genes, which would guide
+further lncRNA identifications and characterizations.
+
+PMID: 24038472  [PubMed - as supplied by publisher]
+
+
+39. J Cell Biochem. 2013 Sep 5. doi: 10.1002/jcb.24665. [Epub ahead of print]
+
+MiR-495 enhances the sensitivity of non-small cell lung cancer cells to platinum 
+by modulation of copper-transporting P-type adenosine triphosphatase A (ATP7A).
+
+Song L, Li Y, Li W, Wu S, Li Z.
+
+Department of Respiratory Medicine, Xijing Hospital, Fourth Military Medical
+University, Xi'an, 710032, China.
+
+Copper-transporting P-type adenosine triphosphatase A (ATP7A) is associated with 
+platinum drug resistance in non-small cell lung cancer (NSCLC). MicroRNAs
+(miRNAs) are a class of small non-coding RNA molecules that regulate gene
+expression at post-transcriptional level. In this study, the aim is to explore
+which miRNAs might participate in the platinum resistance by targeting ATP7A in
+NSCLC. Using real time PCR-based miRNA expression profiling and bioinformatics,
+we selected miR-495 as a candidate miRNA. EGFP reporter assay, real time PCR and 
+western blot validated that ATP7A was a direct target for miR-495. The drug
+sensitivity assay indicated that miR-495 enhanced the cell response to cisplatin 
+(CDDP) in NSCLC cells, while inhibition of miR-495 led to the opposite effects.
+Importantly, either overexpression or knockdown of ATP7A could override the
+effect of miR-495 on chemosensitivity. We also demonstrated that miR-495
+increased the intracellular CDDP accumulation and overexpression of ATP7A can
+reduce the increased drug concentration induced by miR-495. Finally, we
+discovered that there was a converse relationship between miR-495 and ATP7A
+levels in NSCLC tissues sensitive or resistant to CDDP. In conclusion, our data
+demonstrate that miR-495 regulates the multi-drug resistance by modulation of
+ATP7A expression in NSCLC and suggest that miR-495 may serve as a potential
+biomarker for the treatment of multi-drug resistant NSCLC patients with high
+ATP7A levels. J. Cell. Biochem. © 2013 Wiley Periodicals, Inc.
+
+© 2013 Wiley Periodicals, Inc.
+
+PMID: 24038379  [PubMed - as supplied by publisher]
+
+
+40. Nucleic Acids Res. 2013 Sep 12. [Epub ahead of print]
+
+Histone posttranslational modifications and cell fate determination: lens
+induction requires the lysine acetyltransferases CBP and p300.
+
+Wolf L, Harrison W, Huang J, Xie Q, Xiao N, Sun J, Kong L, Lachke SA, Kuracha MR,
+Govindarajan V, Brindle PK, Ashery-Padan R, Beebe DC, Overbeek PA, Cvekl A.
+
+Department of Ophthalmology and Visual Sciences, Albert Einstein College of
+Medicine, Bronx, NY10461, USA, Department of Genetics, Albert Einstein College of
+Medicine, Bronx, NY10461, USA, Department of Molecular and Cellular Biology,
+Baylor College of Medicine, Houston, TX 77030, USA, Departments of Ophthalmology 
+and Visual Sciences, Washington University Saint Louis, Saint Louis, MO 63110,
+USA, Department of Biological Sciences, University of Delaware, Newark, DE 19716,
+USA, Center for Bioinformatics and Computational Biology, University of Delaware,
+Newark, DE 19716, USA, Department of Surgery, Creighton University, Omaha, NE
+68178, USA, Department of Biochemistry, St. Jude Children's Research Hospital,
+Memphis, TN 38105, USA and Department of Human Molecular Genetics and
+Biochemistry, Sackler School of Medicine and Sagol School of Neuroscience, Tel
+Aviv University, Israel 69978.
+
+Lens induction is a classical embryologic model to study cell fate determination.
+It has been proposed earlier that specific changes in core histone modifications 
+accompany the process of cell fate specification and determination. The lysine
+acetyltransferases CBP and p300 function as principal enzymes that modify core
+histones to facilitate specific gene expression. Herein, we performed conditional
+inactivation of both CBP and p300 in the ectodermal cells that give rise to the
+lens placode. Inactivation of both CBP and p300 resulted in the dramatic
+discontinuation of all aspects of lens specification and organogenesis, resulting
+in aphakia. The CBP/p300(-/-) ectodermal cells are viable and not prone to
+apoptosis. These cells showed reduced expression of Six3 and Sox2, while
+expression of Pax6 was not upregulated, indicating discontinuation of lens
+induction. Consequently, expression of αB- and αA-crystallins was not initiated. 
+Mutant ectoderm exhibited markedly reduced levels of histone H3 K18 and K27
+acetylation, subtly increased H3 K27me3 and unaltered overall levels of H3 K9ac
+and H3 K4me3. Our data demonstrate that CBP and p300 are required to establish
+lens cell-type identity during lens induction, and suggest that posttranslational
+histone modifications are integral to normal cell fate determination in the
+mammalian lens.
+
+PMID: 24038357  [PubMed - as supplied by publisher]
+
+
+41. Adv Nutr. 2013 Sep 1;4(5):579-84. doi: 10.3945/an.113.004176.
+
+Nutrition research to affect food and a healthy lifespan.
+
+Ohlhorst SD, Russell R, Bier D, Klurfeld DM, Li Z, Mein JR, Milner J, Ross AC,
+Stover P, Konopka E.
+
+American Society for Nutrition, Bethesda, MD.
+
+Proper nutrition offers one of the most effective and least costly ways to
+decrease the burden of many diseases and their associated risk factors, including
+obesity. Nutrition research holds the key to increasing our understanding of the 
+causes of obesity and its related comorbidities and thus holds promise to
+markedly influence global health and economies. After outreach to 75 thought
+leaders, the American Society for Nutrition (ASN) convened a Working Group to
+identify the nutrition research needs whose advancement will have the greatest
+projected impact on the future health and well-being of global populations. ASN's
+Nutrition Research Needs focus on the following high priority areas: 1)
+variability in individual responses to diet and foods; 2) healthy growth,
+development, and reproduction; 3) health maintenance; 4) medical management; 5)
+nutrition-related behaviors; and 6) food supply/environment. ASN hopes the
+Nutrition Research Needs will prompt collaboration among scientists across all
+disciplines to advance this challenging research agenda given the high potential 
+for translation and impact on public health. Furthermore, ASN hopes the findings 
+from the Nutrition Research Needs will stimulate the development and adoption of 
+new and innovative strategies that can be applied toward the prevention and
+treatment of nutrition-related diseases. The multidisciplinary nature of
+nutrition research requires stakeholders with differing areas of expertise to
+collaborate on multifaceted approaches to establish the evidence-based nutrition 
+guidance and policies that will lead to better health for the global population. 
+In addition to the identified research needs, ASN also identified 5 tools that
+are critical to the advancement of the Nutrition Research Needs: 1) omics, 2)
+bioinformatics, 3) databases, 4) biomarkers, and 5) cost-effectiveness analysis.
+
+PMID: 24038264  [PubMed - in process]
+
+
+42. J Cell Biochem. 2013 Aug 22. doi: 10.1002/jcb.24655. [Epub ahead of print]
+
+miR-34c enhances mouse spermatogonial stem cells differentiation by targeting
+Nanos2.
+
+Yu M, Mu H, Niu Z, Chu Z, Zhu H, Hua J.
+
+College of Veterinary Medicine, Shaanxi Centre of Stem Cells Engineering &amp;
+Technology, Key Lab for Animal Biotechnology of Agriculture Ministry, Northwest
+A&amp;F University, Yangling, Shaanxi, 712100, China.
+
+MiRNAs are expressed in many mammalian cells, acting specific roles in regulating
+gene expression or mediating special mRNAs cleavage by targeting their 3'UTR.
+Some miRNAs are essential and important for animal development. However, it is
+still unclear what the relationship is between miR-34c and mammalian
+spermatogonial stem cells (SSCs). We found that a conserved microRNA-34c through 
+its target-Nanos2, regulating SSCs' differentiation in mouse.
+Immunohistochemistry analysis of Nanos2 and miR-34c FISH results revealed the
+opposite expression trends between them. Seven bioinformatics websites and
+programs predicted that miR-34c has interaction sites in Nanos2's 3' untranslated
+region (3'UTR). Dual-luciferase reporter vector and mutated dual-luciferase
+reporter vector analysis validated that they are interacted. After transfection
+miR-34c mimics into mouse SSCs, or miR-34c lentiviral vector in vitro
+co-cultivation with seminiferous tubules, and western blot analysis demonstrated 
+that miR-34c over-expression could suppress Nanos2 expression in
+post-transcription level. Our experiments identified that miR-34c may promote
+meiosis process by interacting with Nanos2 leading up-regulation of Stra8 in
+mouse spermatogonial stem cells. J. Cell. Biochem. © 2013 Wiley Periodicals, Inc.
+
+© 2013 Wiley Periodicals, Inc.
+
+PMID: 24038201  [PubMed - as supplied by publisher]
+
+
+43. J Med Virol. 2013 Sep 13. doi: 10.1002/jmv.23749. [Epub ahead of print]
+
+Serology indicates cytomegalovirus infection is associated with varicella-zoster 
+virus reactivation.
+
+Ogunjimi B, Theeten H, Hens N, Beutels P.
+
+Centre for Health Economics Research and Modeling Infectious Diseases, Vaccine &amp; 
+Infectious Disease Institute, University of Antwerp, Antwerp, Belgium;
+Interuniversity Institute for Biostatistics and Statistical Bioinformatics,
+Hasselt University, Hasselt, Belgium.
+
+Varicella-zoster virus (VZV) causes chickenpox after which the virus remains
+latent in neural ganglia. Subsequent reactivation episodes occur, leading mainly 
+to subclinical detection of VZV, but also to the clinical entity herpes zoster.
+These reactivations are known to occur most frequently amongst immunocompromised 
+individuals, but the incidence of herpes zoster is also known to increase with
+age, supposedly as a consequence of immunosenescence. Our analysis aims to
+explore associations between cytomegalovirus (CMV) infection and VZV reactivation
+by analyzing VZV-specific antibody titers as a function of age, gender, and CMV
+serostatus. The analysis was repeated on measles and parvovirus B19 antibody
+titers. At the time of the observations, measles virus circulation was virtually 
+eliminated, whereas parvovirus B19 circulated at lower levels than VZV. Multiple 
+linear regression analyses, using the log-transformed antibody titers, identified
+a positive association between ageing and VZV antibody titers suggesting that
+ageing increasingly stimulates VZV reactivation. CMV infection further amplified 
+the positive association between ageing and the reactivation rate. A negative
+association between CMV infection and VZV antibody titers was found in young
+individuals, thereby supporting the hypothesis that CMV infection may have a
+negative effect on the number of B-cells. However, no associations between CMV
+infection and measles or parvovirus B19 antibody titers occurred, but ageing
+tended to be associated with a decrease in the antibody titer against parvovirus 
+B19. The combined results thus suggest that both CMV-dependent and
+CMV-independent immunosenescence occurs. This is supported by an in-depth
+analysis of VZV, measles and parvovirus B19 antibody titers. J. Med. Virol.
+9999:XX-XX, 2013. © 2013 Wiley Periodicals, Inc.
+
+© 2013 Wiley Periodicals, Inc.
+
+PMID: 24037981  [PubMed - as supplied by publisher]
+
+
+44. Mol Biol Evol. 2013 Sep 12. [Epub ahead of print]
+
+Protein expansion is primarily due to indels in intrinsically disordered regions.
+
+Light S, Sagit R, Sachenkova O, Ekman D, Elofsson A.
+
+*Science for Life Laboratory, Bioinformatics Infrastructure for Life Sciences,
+Department ofBiochemistry and Biophysics, Stockholm University, SE-171 21 Solna, 
+Sweden, Contributed equallyE-mail:sara.light@scilifelab.se.
+
+Proteins evolve not only through point mutations but also by insertion and
+deletion events, which affect the length of the protein. It is well known that
+such indel events most frequently occur in surface-exposed loops. However,
+detailed analysis of indel events in distantly related and fast evolving proteins
+is hampered by the difficulty involved in correctly aligning such sequences.
+Here, we circumvent this problem by first only analyzing homologous proteins
+based on length variation rather than pairwise alignments. Using this approach we
+find a surprisingly strong relationship between difference in length and
+difference in the number of intrinsically disordered residues, where up to three 
+quarters of the length variation can be explained by changes in the number of
+intrinsically disordered residues. Further, we find that disorder is common in
+both insertions and deletions. A more detailed analysis reveals that indel events
+do not induce disorder but rather that already disordered regions accrue indels, 
+suggesting that there is a lowered selective pressure for indels to occur within 
+intrinsically disordered regions.
+
+PMID: 24037790  [PubMed - as supplied by publisher]
+
+
+45. Cancer. 2013 Aug 20. doi: 10.1002/cncr.28304. [Epub ahead of print]
+
+Integration of cancer genomics with treatment selection: From the genome to
+predictive biomarkers.
+
+Ow TJ, Sandulache VC, Skinner HD, Myers JN.
+
+Department of Otorhinolaryngology-Head and Neck Surgery, Montefiore Medical
+Center/Albert Einstein College of Medicine, Bronx, New York; Department of
+Pathology, Montefiore Medical Center/Albert Einstein College of Medicine, Bronx, 
+New York.
+
+The field of cancer genomics is rapidly advancing as new technology provides
+detailed genetic and epigenetic profiling of human cancers. The amount of new
+data available describing the genetic make-up of tumors is paralleled by rapid
+advances in drug discovery and molecular therapy currently under investigation to
+treat these diseases. This review summarizes the challenges and approaches
+associated with the integration of genomic data into the development of new
+biomarkers in the management of cancer. Cancer 2013. © 2013 American Cancer
+Society.
+
+© 2013 American Cancer Society.
+
+PMID: 24037788  [PubMed - as supplied by publisher]
+
+
+46. J Comput Chem. 2013 Aug 26. doi: 10.1002/jcc.23418. [Epub ahead of print]
+
+Computational protein design: The proteus software and selected applications.
+
+Simonson T, Gaillard T, Mignon D, Schmidt Am Busch M, Lopes A, Amara N,
+Polydorides S, Sedano A, Druart K, Archontis G.
+
+Laboratoire de Biochimie (CNRS UMR7654), Department of Biology, Ecole
+Polytechnique, Palaiseau, 91128, France.
+
+We describe an automated procedure for protein design, implemented in a flexible 
+software package, called Proteus. System setup and calculation of an energy
+matrix are done with the XPLOR modeling program and its sophisticated command
+language, supporting several force fields and solvent models. A second program
+provides algorithms to search sequence space. It allows a decomposition of the
+system into groups, which can be combined in different ways in the energy
+function, for both positive and negative design. The whole procedure can be
+controlled by editing 2-4 scripts. Two applications consider the tyrosyl-tRNA
+synthetase enzyme and its successful redesign to bind both O-methyl-tyrosine and 
+D-tyrosine. For the latter, we present Monte Carlo simulations where the
+D-tyrosine concentration is gradually increased, displacing L-tyrosine from the
+binding pocket and yielding the binding free energy difference, in good agreement
+with experiment. Complete redesign of the Crk SH3 domain is presented. The top
+10000 sequences are all assigned to the correct fold by the SUPERFAMILY library
+of Hidden Markov Models. Finally, we report the acid/base behavior of the SNase
+protein. Sidechain protonation is treated as a form of mutation; it is then
+straightforward to perform constant-pH Monte Carlo simulations, which yield good 
+agreement with experiment. Overall, the software can be used for a wide range of 
+application, producing not only native-like sequences but also thermodynamic
+properties with errors that appear comparable to other current software
+packages.Copyright © 2013 Wiley Periodicals, Inc.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+PMID: 24037756  [PubMed - as supplied by publisher]
+
+
+47. Biomol NMR Assign. 2013 Sep 14. [Epub ahead of print]
+
+(1)H, (13)C and (15)N resonance assignments of the VWA domain of Saccharomyces
+cerevisiae Rpn10, a regulatory subunit of 26S proteasome.
+
+Wu Y, Hu Y, Jin C.
+
+Beijing Nuclear Magnetic Resonance Center, Peking University, Beijing, 100871,
+China.
+
+Rpn10 is a ubiquitin receptor of the 26S proteasome, and plays an important role 
+in poly-ubiquitinated proteins recognition in the ubiquitin-proteasome protein
+degradation pathway. It is located in the 19S regulatory particle and interacts
+with several subunits of both lid and base complexes. Bioinformatics analysis of 
+yeast Rpn10 suggests that it contains a von Willebrand (VWA domain) and a
+C-terminal tail containing a Ub-interacting motif. Studies of Saccharomyces
+cerevisiae Rpn10 suggested that its VWA domain might participate in interactions 
+with subunit from both lid and base subcomplexes of the 19S regulatory particle. 
+Herein, we report the chemical shift assignments of (1)H, (13)C and (15)N atoms
+of the VWA domain of S. cerevisiae Rpn10, which provide the basis for further
+structural and functional studies of Rpn10 by solution NMR technique.
+
+PMID: 24037519  [PubMed - as supplied by publisher]
+
+
+48. Nat Biotechnol. 2013 Sep 15. doi: 10.1038/nbt.2702. [Epub ahead of print]
+
+Reproducibility of high-throughput mRNA and small RNA sequencing across
+laboratories.
+
+'t Hoen PA, Friedländer MR, Almlöf J, Sammeth M, Pulyakhina I, Anvar SY, Laros
+JF, Buermans HP, Karlberg O, Brännvall M; The GEUVADIS Consortium, van Ommen GJ, 
+Estivill X, Guigó R, Syvänen AC, Gut IG, Dermitzakis ET, Antonorakis SE, Brazma
+A, Flicek P, Schreiber S, Rosenstiel P, Meitinger T, Strom TM, Lehrach H, Sudbrak
+R, Carracedo A, 't Hoen PA, Pulyakhina I, Anvar SY, Laros JF, Buermans HP, van
+Iterson M, Friedländer MR, Monlong J, Lizano E, Bertier G, Ferreira PG, Sammeth
+M, Almlöf J, Karlberg O, Brännvall M, Ribeca P, Griebel T, Beltran S, Gut M,
+Kahlem K, Lappalainen T, Giger T, Ongen H, Padioleau I, Kilpinen H,
+Gonzàlez-Porta M, Kurbatova N, Tikhonov A, Greger L, Barann M, Esser D, Häsler R,
+Wieland T, Schwarzmayr T, Sultan M, Amstislavskiy V, den Dunnen JT, van Ommen GJ,
+Gut IG, Guigó R, Estivill X, Syvänen AC, Dermitzakis ET, Lappalainen T.
+
+1] Department of Human Genetics, Leiden University Medical Center, Leiden, The
+Netherlands. [2] Netherlands Bioinformatics Centre, Leiden, The Netherlands.
+
+RNA sequencing is an increasingly popular technology for genome-wide analysis of 
+transcript sequence and abundance. However, understanding of the sources of
+technical and interlaboratory variation is still limited. To address this, the
+GEUVADIS consortium sequenced mRNAs and small RNAs of lymphoblastoid cell lines
+of 465 individuals in seven sequencing centers, with a large number of
+replicates. The variation between laboratories appeared to be considerably
+smaller than the already limited biological variation. Laboratory effects were
+mainly seen in differences in insert size and GC content and could be adequately 
+corrected for. In small-RNA sequencing, the microRNA (miRNA) content differed
+widely between samples owing to competitive sequencing of rRNA fragments. This
+did not affect relative quantification of miRNAs. We conclude that distributing
+RNA sequencing among different laboratories is feasible, given proper
+standardization and randomization procedures. We provide a set of quality
+measures and guidelines for assessing technical biases in RNA-seq data.
+
+PMID: 24037425  [PubMed - as supplied by publisher]
+
+
+49. Nature. 2013 Sep 15. doi: 10.1038/nature12531. [Epub ahead of print]
+
+Transcriptome and genome sequencing uncovers functional variation in humans.
+
+Lappalainen T, Sammeth M, Friedländer MR, 't Hoen PA, Monlong J, Rivas MA,
+Gonzàlez-Porta M, Kurbatova N, Griebel T, Ferreira PG, Barann M, Wieland T,
+Greger L, van Iterson M, Almlöf J, Ribeca P, Pulyakhina I, Esser D, Giger T,
+Tikhonov A, Sultan M, Bertier G, Macarthur DG, Lek M, Lizano E, Buermans HP,
+Padioleau I, Schwarzmayr T, Karlberg O, Ongen H, Kilpinen H, Beltran S, Gut M,
+Kahlem K, Amstislavskiy V, Stegle O, Pirinen M, Montgomery SB, Donnelly P,
+McCarthy MI, Flicek P, Strom TM, The Geuvadis Consortium, Lehrach H, Schreiber S,
+Sudbrak R, Carracedo A, Antonarakis SE, Häsler R, Syvänen AC, van Ommen GJ,
+Brazma A, Meitinger T, Rosenstiel P, Guigó R, Gut IG, Estivill X, Dermitzakis ET.
+
+1] Department of Genetic Medicine and Development, University of Geneva Medical
+School, 1211 Geneva, Switzerland [2] Institute for Genetics and Genomics in
+Geneva (iG3), University of Geneva, 1211 Geneva, Switzerland [3] Swiss Institute 
+of Bioinformatics, 1211 Geneva, Switzerland.
+
+Genome sequencing projects are discovering millions of genetic variants in
+humans, and interpretation of their functional effects is essential for
+understanding the genetic basis of variation in human traits. Here we report
+sequencing and deep analysis of messenger RNA and microRNA from lymphoblastoid
+cell lines of 462 individuals from the 1000 Genomes Project-the first uniformly
+processed high-throughput RNA-sequencing data from multiple human populations
+with high-quality genome sequences. We discover extremely widespread genetic
+variation affecting the regulation of most genes, with transcript structure and
+expression level variation being equally common but genetically largely
+independent. Our characterization of causal regulatory variation sheds light on
+the cellular mechanisms of regulatory and loss-of-function variation, and allows 
+us to infer putative causal variants for dozens of disease-associated loci.
+Altogether, this study provides a deep understanding of the cellular mechanisms
+of transcriptome variation and of the landscape of functional variants in the
+human genome.
+
+PMID: 24037378  [PubMed - as supplied by publisher]
+
+
+50. ALTEX. 2013 Sep 14. pii: S1868696X1304241X. [Epub ahead of print]
+
+A computational approach to mechanistic and predictive toxicology of pesticides.
+
+Kongsbak K, Vinggaard AM, Hadrup N, Audouze K.
+
+Center for Biological Sequence Analysis, Department of Systems Biology, Technical
+University of Denmark, DK-2800 Kgs. Lyngby, Denmark;
+
+Emerging challenges of managing and interpreting large amounts of complex
+biological data have given rise to the growing field of computational biology. We
+investigated the applicability of an integrated systems toxicology approach on
+five selected pesticides to get an overview of their modes of action in humans,
+to group them according to their modes of action, and to hypothesize on their
+potential effects on human health. We extracted human proteins associated to
+prochloraz, tebuconazole, epoxiconazole, procymidone, and mancozeb and enriched
+each protein set by using a high confidence human protein interactome. Then, we
+explored modes of action of the chemicals, by integrating protein-disease
+information to the resulting protein networks. The dominating human adverse
+effects affected were reproductive disorders followed by adrenal diseases. Our
+results indicated that prochloraz, tebuconazole, and procymidone exerted their
+effects mainly via interference with steroidogenesis and nuclear receptors.
+Prochloraz was associated to a large number of human diseases, and together with 
+tebuconazole showed several significant associations to Testicular Dysgenesis
+Syndrome. Mancozeb showed a differential mode of action, involving inflammatory
+processes. This method provides an efficient way of overviewing data and grouping
+chemicals according to their mode of action and potential human adverse effects. 
+Such information is valuable when dealing with predictions of mixture effects of 
+chemicals and may contribute to the development of adverse outcome pathways.
+
+PMID: 24037280  [PubMed - as supplied by publisher]
+
+
+51. Nat Methods. 2013 Sep 15. doi: 10.1038/nmeth.2650. [Epub ahead of print]
+
+TCPA: a resource for cancer functional proteomics data.
+
+Li J, Lu Y, Akbani R, Ju Z, Roebuck PL, Liu W, Yang JY, Broom BM, Verhaak RG,
+Kane DW, Wakefield C, Weinstein JN, Mills GB, Liang H.
+
+1] Department of Bioinformatics and Computational Biology, The University of
+Texas MD Anderson Cancer Center, Houston, Texas, USA. [2].
+
+PMID: 24037243  [PubMed - as supplied by publisher]
+
+
+52. Bioinformatics. 2013 Sep 13. [Epub ahead of print]
+
+Discovering Combinatorial Interactions in Survival Data.
+
+Duverle DA, Takeuchi I, Murakami-Tonami Y, Kadomatsu K, Tsuda K.
+
+Computational Biology Research Center, National Institute of Advanced Industrial 
+Science and Technology, Tokyo, Japan.
+
+MOTIVATION: While several methods exist to relate high-dimensional gene
+expression data to various clinical phenotypes, finding combinations of features 
+in such input remains a challenge, particularly when fitting complex statistical 
+models such as those used for survival studies.
+RESULTS: Our proposed method builds on existing "regularisation path-following"
+techniques to produce regression models that can extract arbitrarily complex
+patterns of input features (such as gene combinations) from large-scale data that
+relate to a known clinical outcome. Through the use of the data's structure and
+itemset mining techniques, we are able to avoid combinatorial complexity issues
+typically encountered with such methods and our algorithm performs in similar
+orders of duration as single-variable versions. Applied to data from various
+clinical studies of cancer patient survival time, our method was able to produce 
+a number of promising gene-interaction candidates whose tumour-related roles
+appear confirmed by literature.
+AVAILABILITY: An R implementation of the algorithm described in this paper can be
+found at https://github.com/david-duverle/regularisation-path-following CONTACT: 
+dave.duverle@aist.go.jp.
+
+PMID: 24037215  [PubMed - as supplied by publisher]
+
+
+53. Bioinformatics. 2013 Sep 12. [Epub ahead of print]
+
+Ontology-aware classification of tissue and cell-type signals in gene expression 
+profiles across platforms and technologies.
+
+Lee YS, Krishnan A, Zhu Q, Troyanskaya O.
+
+Department of Computer Science, Princeton University, Princeton, NJ 08544, USA.
+
+MOTIVATION: Leveraging gene expression data through large-scale integrative
+analyses for multicellular organisms is challenging because most samples are not 
+fully annotated to their tissue/cell-type of origin. A computational method to
+classify samples using their entire gene expression profiles is needed. Such a
+method must be applicable across thousands of independent studies, hundreds of
+gene expression technologies, and hundreds of diverse human tissues and
+cell-types.
+RESULTS: We present URSA (Unveiling RNA Sample Annotation) that leverages the
+complex tissue/cell-type relationships and simultaneously estimates the
+probabilities associated to hundreds of tissues/cell-types for any given gene
+expression profile. URSA provides accurate and intuitive probability values for
+expression profiles across independent studies and outperforms other methods
+irrespective of data preprocessing techniques. Moreover, without re-training,
+URSA can be used to classify samples from diverse microarray platforms and even
+from next generation sequencing technology. Finally, we provide a molecular
+interpretation for the tissue and cell-type models as the biological basis for
+URSA's classifications.
+AVAILABILITY: An interactive web interface for using URSA for gene-expression
+analysis is available at: ursa.princeton.edu. The source code is available at
+https://bitbucket.org/youngl/ursa_backend.
+CONTACT: ogt@cs.princeton.edu SUPPLEMENTARY INFORMATION: Supplementary figures
+and table are available online.
+
+PMID: 24037214  [PubMed - as supplied by publisher]
+
+
+54. Bioinformatics. 2013 Sep 12. [Epub ahead of print]
+
+Protein Evolution along Phylogenetic Histories under Structurally Constrained
+Substitution Models.
+
+Arenas M, Dos Santos HG, Posada D, Bastolla U.
+
+Centre for Molecular Biology "Severo Ochoa", Consejo Superior de Investigaciones 
+Científicas (CSIC), Madrid, Spain.
+
+MOTIVATION: Models of molecular evolution aim at describing the evolutionary
+processes at the molecular level. However, current models rarely incorporate
+information from protein structure. Conversely, structure-based models of protein
+evolution have not been commonly applied to simulate sequence evolution in a
+phylogenetic framework and they often ignore relevant evolutionary processes such
+as recombination. A simulation evolutionary framework that integrates
+substitution models that account for protein structure stability should be able
+to generate more realistic in silico evolved proteins for a variety of purposes.
+RESULTS: We developed a method to simulate protein evolution that combines models
+of protein folding stability, such that the fitness depends on the stability of
+the native state both with respect to unfolding and misfolding, with phylogenetic
+histories that can be either specified by the user or simulated with the
+coalescent under complex evolutionary scenarios including recombination,
+demographics and migration. We have implemented this framework in a computer
+program called ProteinEvolver. Remarkably, comparing these models with empirical 
+amino acid replacement models, we found that the former produce amino acid
+distributions closer to distributions observed in real protein families, and
+proteins that are predicted to be more stable. Therefore, we conclude that
+evolutionary models that consider protein stability and realistic evolutionary
+histories constitute a better approximation of the real evolutionary process.
+AVAILABILITY: ProteinEvolver is written in C, can run in parallel, and is freely 
+available from http://code.google.com/p/proteinevolver/.
+CONTACT: marenas@cbm.uam.es, ubastolla@cbm.uam.es SUPPLEMENTARY INFORMATION:
+Supplementary data are available at Bioinformatics online.
+
+PMID: 24037213  [PubMed - as supplied by publisher]
+
+
+55. Bioinformatics. 2013 Sep 12. [Epub ahead of print]
+
+CruzDB: software for annotation of genomic intervals with UCSC genome-browser
+database.
+
+Pedersen BS, Yang IV, De S.
+
+Department of Medicine, University of Colorado Denver, School of Medicine,
+Denver, Colorado,USA.
+
+MOTIVATION: The biological significance of genomic features is often
+context-dependent. Annotating a particular dataset with existing, external data
+can provide insight into function.
+RESULTS: We present CruzDB, a fast and intuitive programmatic interface to the
+UCSC genome browser that facilitates integrative analyses of diverse local and
+remotely hosted datasets. We showcase the syntax of CruzDB using miRNA-binding
+sites as examples, and further demonstrate its utility with 3 biological
+discoveries. First, DNA replication timing is stratified in gene regions exons
+tend to replicate early, and introns late during S phase. Second, several
+non-coding variants associated with cognitive functions map to lincRNA
+transcripts of relevant function, suggesting potential function of these
+regulatory RNAs in neuronal diseases. Third, lamina-associated genomic regions
+are highly enriched in olfaction- related genes, indicating a role of nuclear
+organization in their regulation.
+AVAILABILITY: CruzDB is available at https://github.com/brentp/cruzdb under the
+MIT open-source license.
+CONTACT: bpederse@gmail.com, subhajyoti.de@ucdenver.edu.
+
+PMID: 24037212  [PubMed - as supplied by publisher]
+
+
+56. Database (Oxford). 2013 Sep 14;2013(0):bat061. doi: 10.1093/database/bat061.
+Print 2013.
+
+Groups: knowledge spreadsheets for symbolic biocomputing.
+
+Travers M, Paley SM, Shrager J, Holland TA, Karp PD.
+
+Bioinformatics Research Group, SRI International, Menlo Park, CA 94025, USA.
+
+Knowledge spreadsheets (KSs) are a visual tool for interactive data analysis and 
+exploration. They differ from traditional spreadsheets in that rather than being 
+oriented toward numeric data, they work with symbolic knowledge representation
+structures and provide operations that take into account the semantics of the
+application domain. 'Groups' is an implementation of KSs within the Pathway Tools
+system. Groups allows Pathway Tools users to define a group of objects (e.g.
+groups of genes or metabolites) from a Pathway/Genome Database. Groups can be
+transformed (e.g. by transforming a metabolite group to the group of pathways in 
+which those metabolites are substrates); combined through set operations;
+analysed (e.g. through enrichment analysis); and visualized (e.g. by painting
+onto a metabolic map diagram). Users of the Pathway Tools-based BioCyc.org
+website have made extensive use of Groups, and an informal survey of Groups users
+suggests that Groups has achieved the goal of allowing biologists themselves to
+perform some data manipulations that previously would have required the
+assistance of a programmer. Database URL: BioCyc.org.
+
+PMID: 24037025  [PubMed - in process]
+
+
+57. Int J Mol Sci. 2013 Sep 12;14(9):18790-808. doi: 10.3390/ijms140918790.
+
+Long Non-Coding RNAs and Complex Human Diseases.
+
+Li J, Xuan Z, Liu C.
+
+Bioinformatics Research Group, Key Laboratory of Intelligent Information
+Processing, Advanced Computer Research Center, Institute of Computing Technology,
+Chinese Academy of Sciences, Beijing 100190, China. zhenyu.xuan@utdallas.edu.
+
+Long non-coding RNAs (lncRNAs) are a heterogeneous class of RNAs that are
+generally defined as non-protein-coding transcripts longer than 200 nucleotides. 
+Recently, an increasing number of studies have shown that lncRNAs can be involved
+in various critical biological processes, such as chromatin remodeling, gene
+transcription, and protein transport and trafficking. Moreover, lncRNAs are
+dysregulated in a number of complex human diseases, including coronary artery
+diseases, autoimmune diseases, neurological disorders, and various cancers, which
+indicates their important roles in these diseases. Here, we reviewed the current 
+understanding of lncRNAs, including their definition and subclassification,
+regulatory functions, and potential roles in different types of complex human
+diseases.
+
+PMID: 24036441  [PubMed - in process]
+
+
+58. Steroids. 2013 Sep 11. pii: S0039-128X(13)00196-7. doi:
+10.1016/j.steroids.2013.08.014. [Epub ahead of print]
+
+Speeding up the screening of steroids in urine: development of a user-friendly
+library.
+
+Galesio M, López-Fdez H, Reboiro-Jato M, Gómez-Meire S, Glez-Peña D,
+Fdez-Riverola F, Lodeiro C, Diniz M, Capelo JL.
+
+REQUIMTE, Departamento de Química, Faculdade de Ciências e Tecnologia,
+Universidade Nova de Lisboa, 2829-516 Monte de Caparica, Portugal.
+
+This work presents a novel database search engine - MLibrary - designed to assist
+the user in the detection and identification of androgenic anabolic steroids
+(AAS) and its metabolites by matrix assisted laser desorption/ionization (MALDI) 
+and mass spectrometry-based strategies. The detection of the AAS in the samples
+was accomplished by searching (i) the mass spectrometric (MS) spectra against the
+library developed to identify possible positives and (ii) by comparison of the
+tandem mass spectrometric (MS/MS) spectra produced after fragmentation of the
+possible positives with a complete set of spectra that have previously been
+assigned to the software. The urinary screening for anabolic agents plays a major
+role in anti-doping laboratories as they represent the most abused drug class in 
+sports. With the help of the MLibrary software application, the use of MALDI
+techniques for doping control is simplified and the time for evaluation and
+interpretation of the results is reduced. To do so, the search engine takes as
+input several MALDI-TOF-MS and MALDI-TOF-MS/MS spectra. It aids the researcher in
+an automatic mode by identifying possible positives in a single MS analysis and
+then confirming their presence in tandem MS analysis by comparing the
+experimental tandem mass spectrometric data with the database. Furthermore, the
+search engine can, potentially, be further expanded to other compounds in
+addition to AASs. The applicability of the MLibrary tool is shown through the
+analysis of spiked urine samples.
+
+Copyright © 2013. Published by Elsevier Inc.
+
+PMID: 24036418  [PubMed - as supplied by publisher]
+
+
+59. J Struct Biol. 2013 Sep 11. pii: S1047-8477(13)00233-5. doi:
+10.1016/j.jsb.2013.09.003. [Epub ahead of print]
+
+Maximizing the potential of electron cryomicroscopy data collected using direct
+detectors.
+
+Veesler D, Campbell MG, Cheng A, Fu CY, Murez Z, Johnson JE, Potter CS, Carragher
+B.
+
+Department of Integrative Structural and Computational Biology, The Scripps
+Research Institute, La Jolla, CA 92037; National Resource for Automated Molecular
+Microscopy, The Scripps Research Institute, La Jolla, CA 92037.
+
+Single-particle electron cryo-microscopy is undergoing a technical revolution due
+to the recent developments of direct detectors. These new recording devices
+detect electrons directly (i.e. without conversion into light) and feature
+significantly improved detective quantum efficiencies and readout rates as
+compared to photographic films or CCDs. We evaluated here the potential of one
+such detector (Gatan K2 Summit) to enable the achievement of near-atomic
+resolution reconstructions of biological specimens when coupled to a widely used,
+mid-range transmission electron microscope (FEI TF20 Twin). Compensating for
+beam-induced motion and stage drift provided a 4.4 Å resolution map of Sulfolobus
+Turreted Icosahedral Virus (STIV), which we used as a test particle in this
+study. Several motion correction and dose fractionation procedures were explored 
+and we describe their influence on the resolution of the final reconstruction. We
+also compared the quality of this data to that collected with a FEI Titan Krios
+microscope equipped with a Falcon I direct detector, which provides a benchmark
+for data collected using a high-end electron microscope.
+
+Copyright © 2013. Published by Elsevier Inc.
+
+PMID: 24036281  [PubMed - as supplied by publisher]
+
+
+60. J Theor Biol. 2013 Sep 11. pii: S0022-5193(13)00425-6. doi:
+10.1016/j.jtbi.2013.09.004. [Epub ahead of print]
+
+On the competitive uptake and transport of ions through differentiated root
+tissues.
+
+Foster KJ, Miklavcic SJ.
+
+Phenomics and Bioinformatics Research Centre, School of Information Technology
+and Mathematical Sciences, University of South Australia, Mawson Lakes, SA 5095, 
+Australia; Australian Centre for Plant Functional Genomics, Hartley Grove,
+Urrbrae, SA 5064, Australia.
+
+We simulate the competitive uptake and transport of a mixed salt system in the
+differentiated tissues of plant roots. The results are based on a physical model 
+that includes both forced diffusion and convection by the transpiration stream.
+The influence of the Casparian strip on regulating apoplastic flow, the focus of 
+the paper, is modelled by varying ion diffusive permeabilities, hydraulic
+reflection coefficients and water permeability for transport across the
+endodermis-pericycle interface. We find that reducing diffusive permeabilities
+leads to significantly altered ion concentration profiles in the pericycle and
+vascular cylinder regions, while increased convective reflectivities affect
+predominantly ion concentrations in the cortex and endodermis tissues. The
+self-consistent electric field arising from ion separation is a major influence
+on predicted ion fluxes and accumulation rates.
+
+© 2013 The Authors. Published by Elsevier Ltd. All rights reserved.
+
+PMID: 24036203  [PubMed - as supplied by publisher]
+
+
+61. Gastroenterology. 2013 Sep 11. pii: S0016-5085(13)01284-5. doi:
+10.1053/j.gastro.2013.09.006. [Epub ahead of print]
+
+MIR106B and MIR93 Prevent Removal of Bacteria from Epithelial Cells by Disrupting
+ATG16L1-Mediated Autophagy.
+
+Lu C, Chen J, Xu HG, Zhou X, He Q, Li YL, Jiang G, Shan Y, Xue B, Zhao RX, Wang
+Y, Werle KD, Cui R, Liang J, Xu ZX.
+
+Division of Hematology and Oncology, Comprehensive Cancer Center, the University 
+of Alabama at Birmingham, Birmingham, Alabama, USA.
+
+BACKGROUND &amp; AIMS: Variants in genes that regulate autophagy have been associated
+with Crohn's disease (CD). Defects in autophagy-mediated removal of pathogenic
+microbes could contribute to pathogenesis of CD. We investigated the role of the 
+micro-RNAs (miRs) MIR106B and MIR93 in induction of autophagy and bacterial
+clearance in human cell lines, and the correlation between MIR106B and
+autophagy-related gene 16L1 (ATG16L1) expression in tissues from patients with
+CD.
+METHODS: We studied the ability of MIR106B and MIR93 to regulate ATG transcripts 
+in human cancer cell lines (HCT116, SW480, HeLa , and U2OS) using luciferase
+report assays and bioinformatics analyses; MIR106B and MIR93 mimics and
+antagonists were transfected into cells to modify levels of miRs. Cells were
+infected with LF82, a CD-associated adherent-invasive strain of Escherichia coli,
+and monitored by confocal microscopy and for colony-forming units. Colon tissues 
+from 41 healthy individuals (controls), 22 with active CD, 16 with inactive CD,
+and 7 with chronic inflammation were assessed for levels of MIR106B and ATG16L1
+by in situ hybridization and immunohistochemistry.
+RESULTS: Silencing Dicer 1, an essential processor of miRs, increased levels of
+ATG protein and formation of autophagosomes in cells, indicating that miRs
+regulate autophagy. Luciferase reporter assays indicated that MIR106B and MIR93
+targeted ATG16L1 mRNA. MIR106B and MIR93 reduced levels of ATG16L1 and autophagy;
+these increased following expression of ectopic ATG16L1. In contrast, MIR106B and
+MIR93 antagonists increased formation of autophagosomes. Levels of MIR106B were
+increased in intestinal epithelia from patients with active CD, whereas levels of
+ATG16L1 were reduced, compared with controls. Levels of CMYC were also increased 
+in intestinal epithelia of patients with active CD, compared with controls. These
+alterations could impair removal of CD-associated bacteria by autophagy.
+CONCLUSIONS: In human cell lines, MIR106B and MIR93 reduce levels of ATG16L1 and 
+autophagy, and prevent autophagy-dependent eradication of intracellular bacteria.
+This process also appears to be altered in colon tissues from patients with
+active CD.
+
+Copyright © 2013 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+PMID: 24036151  [PubMed - as supplied by publisher]
+
+
+62. J Virol Methods. 2013 Sep 12. pii: S0166-0934(13)00382-0. doi:
+10.1016/j.jviromet.2013.08.035. [Epub ahead of print]
+
+Evaluation of rapid and simple techniques for the enrichment of viruses prior to 
+metagenomic virus discovery.
+
+Hall RJ, Wang J, Todd AK, Bissielo AB, Yen S, Strydom H, Moore NE, Ren X, Huang
+QS, Carter PE, Peacey M.
+
+Institute of Environmental Science and Research, at the National Centre for
+Biosecurity &amp; Infectious Disease, 66 Ward Street, Wallaceville, Upper Hutt, NEW
+ZEALAND 5018. Electronic address: richard.hall@esr.cri.nz.
+
+The discovery of new or divergent viruses using metagenomics and high-throughput 
+sequencing has become more commonplace. The preparation of a sample is known to
+have an effect on the representation of virus sequences within the metagenomic
+dataset yet comparatively little attention has been given to this. Physical
+enrichment techniques are often applied to samples to increase the number of
+viral sequences and therefore enhance the probability of detection. With the
+exception of virus ecology studies, there is a paucity of information available
+to researchers on the type of sample preparation required for a viral metagenomic
+study that seeks to identify an aetiological virus in an animal or human
+diagnostic sample. A review of published virus discovery studies revealed the
+most commonly used enrichment methods, that were usually quick and simple to
+implement, namely low-speed centrifugation, filtration, nuclease-treatment (or
+combinations of these) which have been routinely used but often without
+justification. These were applied to a simple and well-characterised artificial
+sample composed of bacterial and human cells, as well as DNA (adenovirus) and RNA
+viruses (influenza A and human enterovirus), being either non-enveloped capsid or
+enveloped viruses. The effect of the enrichment method was assessed by
+quantitative real-time PCR and metagenomic analysis that incorporated an
+amplification step. Reductions in the absolute quantities of bacteria and human
+cells were observed for each method as determined by qPCR, but the relative
+abundance of viral sequences in the metagenomic dataset remained largely
+unchanged. A 3-step method of centrifugation, filtration and nuclease-treatment
+showed the greatest increase in the proportion of viral sequences. This study
+provides a starting point for the selection of a purification method in future
+virus discovery studies, and highlights the need for more data to validate the
+effect of enrichment methods on different sample types, amplification,
+bioinformatics approaches and sequencing platforms. This study also highlights
+the potential risks that may attend selection of a virus enrichment method
+without any consideration for the sample type being investigated.
+
+Copyright © 2013 The Authors. Published by Elsevier B.V. All rights reserved.
+
+PMID: 24036074  [PubMed - as supplied by publisher]
+
+
+63. Biochim Biophys Acta. 2013 Sep 11. pii: S0005-2736(13)00296-4. doi:
+10.1016/j.bbamem.2013.08.017. [Epub ahead of print]
+
+Viral channel proteins in intracellular protein - protein communication: Vpu of
+HIV-1, E5 of HPV16 and p7 of HCV.
+
+Fischer WB, Li LH, Mahato DR, Wang YT, Chen C.
+
+Institute of Biophotonic, School of Biomedical Science and Engineering and
+Biophotonics &amp; Molecular Imaging Research Center (BMIRC), National Yang-Ming
+University, Taipei 112, Taiwan. Electronic address: wfischer@ym.edu.tw.
+
+Viral channel forming proteins are known for their capability to make the lipid
+membrane of the host cell and its subcellular compartments permeable to ions and 
+small compounds. There is increasing evidence that some of the representatives of
+this class of proteins are also strongly interacting with host proteins and the
+effectiveness of this interaction seems to be high. Interaction of viral channel 
+proteins with host factors have been proposed by bioinformatics approaches and
+have also been identified experimentally. An overview of the interactions with
+host proteins is given for Vpu from HIV-1, E5 from HPV-16 and p7 from HCV. This
+article is part of a Special Issue entitled:Viral Membrane Proteins - Channels
+for Cellular Networking.
+
+© 2013 Elsevier B.V. All rights reserved.
+
+PMID: 24035804  [PubMed - as supplied by publisher]
+
+
+64. Am J Pathol. 2013 Sep 10. pii: S0002-9440(13)00542-7. doi:
+10.1016/j.ajpath.2013.07.021. [Epub ahead of print]
+
+miR-210 Inhibits Trophoblast Invasion and Is a Serum Biomarker for Preeclampsia.
+
+Anton L, Olarerin-George AO, Schwartz N, Srinivas S, Bastek J, Hogenesch JB,
+Elovitz MA.
+
+Maternal and Child Health Research Program, Department of Obstetrics and
+Gynecology, Perelman School of Medicine, University of Pennsylvania,
+Philadelphia, Pennsylvania; Genomics and Computational Biology Graduate Group,
+Perelman School of Medicine, University of Pennsylvania, Philadelphia,
+Pennsylvania.
+
+Preeclampsia is characterized by hypertension and proteinuria in pregnant women. 
+Its exact cause is unknown. Preeclampsia increases the risk of maternal and fetal
+morbidity and mortality. Although delivery, often premature, is the only known
+cure, early targeted interventions may improve maternal and fetal outcomes.
+Successful intervention requires a better understanding of the molecular etiology
+of preeclampsia and the development of accurate methods to predict women at risk.
+To this end, we tested the role of miR-210, an miRNA up-regulated in preeclamptic
+placentas, in first-trimester extravillous trophoblasts. miR-210 overexpression
+reduced trophoblast invasion, a process necessary for uteroplacental perfusion,
+in an extracellular signal-regulated kinase/mitogen-activated protein
+kinase-dependent manner. Conversely, miR-210 inhibition promoted invasion.
+Furthermore, given that the placenta secretes miRNAs into the maternal
+circulation, we tested if serum expression of miR-210 was associated with the
+disease. We measured miR-210 expression in two clinical studies: a case-control
+study and a prospective cohort study. Serum miR-210 expression was significantly 
+associated with a diagnosis of preeclampsia (P = 0.007, receiver-operator curve =
+0.81) and was predictive of the disease, even months before clinical diagnosis (P
+&lt; 0.0001, receiver-operator curve = 0.89). Hence, we conclude that aberrant
+expression of miR-210 may contribute to trophoblast function and that miR-210 is 
+a novel predictive serum biomarker for preeclampsia that can help in identifying 
+at-risk women for monitoring and treatment.
+
+Copyright © 2013 American Society for Investigative Pathology. Published by
+Elsevier Inc. All rights reserved.
+
+PMID: 24035613  [PubMed - as supplied by publisher]
+
+
+65. Bioorg Med Chem Lett. 2013 Aug 27. pii: S0960-894X(13)01019-6. doi:
+10.1016/j.bmcl.2013.08.079. [Epub ahead of print]
+
+Identification of new inhibitors for low molecular weight protein tyrosine
+phosphatase isoform B.
+
+Seiler CL, Richards KA, Jakubowski HV, McIntee EJ.
+
+Department of Chemistry, College of Saint Benedict, Saint John's University, St. 
+Joseph, MN 56374, United States.
+
+The National Cancer Institute Diversity Set II (1356 compounds) and Diversity Set
+III (1597 compounds) were screened via in silico methods as potential inhibitors 
+of low molecular weight protein tyrosine phosphatase (LWM-PTP) isoform B (EC
+3.1.3.48). Those candidates that demonstrated comparable or better docking scores
+than that of pyridoxal 5'-phosphate (PLP), one of the most potent known
+inhibitors of LMW-PTP with a competitive inhibitor dissociation constant (Kis) of
+7.6μM (pH 5.0), were analyzed via in vitro kinetic assays against LMW-PTP isoform
+B. While none of the compounds tested in vitro was significantly better that PLP,
+five compounds showed comparable inhibition. These five compounds are very
+diverse in structure and represent new therapeutic leads for inhibition of this
+isozyme.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+PMID: 24035092  [PubMed - as supplied by publisher]
+
+
+66. BMC Genomics. 2013 Sep 14;14(1):622. [Epub ahead of print]
+
+Domain exchange at the 3' end of the gene encoding the fratricide meningococcal
+two-partner secretion protein A.
+
+Arenas J, Schipper K, van Ulsen P, van der Ende A, Tommassen J.
+
+BACKGROUND: Two-partner secretion systems in Gram-negative bacteria consist of an
+outer membrane protein TpsB that mediates the secretion of a cognate TpsA protein
+into the extracellular milieu. TpsA proteins have diverse, often
+virulence-related functions, and some of them inhibit the growth of related
+bacteria. In Neisseria meningitidis, several functions have been attributed to
+the TpsA proteins. Downstream of the tpsB and tpsA genes, several shorter
+tpsA-related gene cassettes, called tpsC, are located interspersed with
+intervening open-reading frames (IORFs). It has been suggested that the tpsC
+cassettes may recombine with the tpsA gene as a mechanism of antigenic variation.
+Here, we investigated (i) whether TpsA of N. meningitidis also has
+growth-inhibitory properties, (ii) whether tpsC cassettes recombine with the tpsA
+gene, and (iii) what the consequences of such recombination events might be.
+RESULTS: We demonstrate that meningococcal TpsA has growth-inhibitory properties 
+and that the IORF located immediately downstream of tpsA confers immunity to the 
+producing strain. Although bioinformatics analysis suggests that recombination
+between tpsC cassettes and tpsA occurs, detailed analysis of the tpsA gene in a
+large collection of disease isolates of three clonal complexes revealed that the 
+frequency is very low and cannot be a mechanism of antigenic variation. However, 
+recombination affected growth inhibition. In vitro experiments revealed that
+recombination can be mediated through acquirement of tpsC cassettes from the
+environment and it identified the regions involved in the recombination.
+CONCLUSIONS: Meningococcal TpsA has growth-inhibitory properties. Recombination
+between tpsA and tpsC cassettes occurs in vivo but is rare and has consequences
+for growth inhibition. A recombination model is proposed and we propose that the 
+main goal of recombination is the collection of new IORFs for protection against 
+a variety of TpsA proteins.
+
+PMID: 24034852  [PubMed - as supplied by publisher]
+
+
+67. Comput Biol Med. 2013 Oct 1;43(10):1614-21. doi:
+10.1016/j.compbiomed.2013.07.022. Epub 2013 Jul 29.
+
+A context evaluation approach for structural comparison of proteins using cross
+entropy over n-gram modelling.
+
+Razmara J, Deris SB, Parvizpour S.
+
+Faculty of Computing, Universiti Teknologi Malaysia, Johor Bahru, Malaysia.
+Electronic address: razmaraj@gmail.com.
+
+The structural comparison of proteins is a vital step in structural biology that 
+is used to predict and analyse a new unknown protein function. Although a number 
+of different techniques have been explored, the study to develop new alternative 
+methods is still an active research area. The present paper introduces a text
+modelling-based technique for the structural comparison of proteins. The method
+models the secondary and tertiary structure of proteins in two linear sequences
+and then applies them to the comparison of two structures. The technique used for
+pairwise comparison of the sequences has been adopted from computational
+linguistics and its well-known techniques for analysing and quantifying textual
+sequences. To this end, an n-gram modelling technique is used to capture
+regularities between sequences, and then, the cross-entropy concept is employed
+to measure their similarities. Several experiments are conducted to evaluate the 
+performance of the method and compare it with other commonly used programs. The
+assessments for information retrieval evaluation demonstrate that the technique
+has a high running speed, which is similar to other linear encoding methods, such
+as 3D-BLAST, SARST, and TS-AMIR, whereas its accuracy is comparable to CE and
+TM-align, which are high accuracy comparison tools. Accordingly, the results
+demonstrate that the algorithm has high efficiency compared with other
+state-of-the-art methods.
+
+© 2013 Elsevier Ltd. Published by Elsevier Ltd. All rights reserved.
+
+PMID: 24034753  [PubMed - in process]
+
+
+68. Comput Biol Med. 2013 Oct 1;43(10):1363-73. doi:
+10.1016/j.compbiomed.2013.06.014. Epub 2013 Jul 4.
+
+ICP: A novel approach to predict prognosis of prostate cancer with inner-class
+clustering of gene expression data.
+
+Kim H, Ahn J, Park C, Yoon Y, Park S.
+
+Department of Computer Science, Yonsei University, South Korea.
+
+Prostate cancer has heterogeneous characteristics. For that reason, even if
+tumors appear histologically similar to each other, there are many cases in which
+they are actually different, based on their gene expression levels. A single
+tumor may have multiple expression levels with both high-risk cancer genes and
+low-risk cancer genes. We can produce more useful models for stratifying prostate
+cancers into high-risk cancer and low-risk cancer categories by considering the
+range in each class through inner-class clustering. In this paper, we attempt to 
+classify cancers into high-risk (aggressive) prostate cancer and low-risk
+(non-aggressive) prostate cancer using ICP (Inner-class Clustering and
+Prediction). Our model classified more efficiently than the models of the
+algorithms used for comparison. After discovering a number of genes linked to
+prostate cancer from the gene pairs used in our classification, we discovered
+that the proposed method can be used to find new unknown genes and gene pairs
+which distinguish between high-risk cancer and low-risk cancer.
+
+© 2013 Elsevier Ltd. All rights reserved.
+
+PMID: 24034727  [PubMed - in process]
+
+
+69. Mol Ecol Resour. 2013 Aug 8. doi: 10.1111/1755-0998.12158. [Epub ahead of print]
+
+Conflicting patterns of DNA barcoding and taxonomy in the cicada genus
+Tettigettalna from southern Europe (Hemiptera: Cicadidae).
+
+Nunes VL, Mendes R, Marabuto E, Novais BM, Hertach T, Quartau JA, Seabra SG,
+Paulo OS, Simões PC.
+
+Computational Biology and Population Genomics Group, Centro de Biologia
+Ambiental, DBA/FCUL, Lisboa, 1749-016, Portugal.
+
+DNA barcodes have great potential to assist in species identification, especially
+when high taxonomical expertise is required. We investigated the utility of the
+5' mitochondrial cytochrome c oxidase I (COI) region to discriminate between 13
+European cicada species. These included all nine species currently recognized
+under the genus Tettigettalna, from which seven are endemic to the southern
+Iberian Peninsula. These cicadas have species-specific male calling songs but are
+morphologically very similar. Mean COI divergence between congeners ranged from
+0.4% to 10.6%, but this gene was proven insufficient to determine species limits 
+within genus Tettigettalna because a barcoding gap was absent for several of its 
+species, that is, the highest intraspecific distance exceeded the lowest
+interspecific distance. The genetic data conflicted with current taxonomic
+classification for T.&nbsp;argentata and T.&nbsp;mariae. Neighbour-joining and Bayesian
+analyses revealed that T.&nbsp;argentata is geographically structured (clades North
+and South) and might constitute a species complex together with T.&nbsp;aneabi and
+T.&nbsp;mariae. The latter diverges very little from the southern clade of
+T.&nbsp;argentata and shares with it its most common haplotype. T.&nbsp;mariae is often in 
+sympatry with T.&nbsp;argentata but it remains unclear whether introgression or
+incomplete lineage sorting may be responsible for the sharing of haplotypes.
+T.&nbsp;helianthemi and T.&nbsp;defauti also show high intraspecific variation that might
+signal hidden cryptic diversity. These taxonomic conflicts must be re-evaluated
+with further studies using additional genes and extensive morphological and
+acoustic analyses.
+
+© 2013 John Wiley &amp; Sons Ltd.
+
+PMID: 24034529  [PubMed - as supplied by publisher]
+
+
+70. Int J Lab Hematol. 2013 Sep 6. doi: 10.1111/ijlh.12141. [Epub ahead of print]
+
+A resequencing program in India detects the rare JAK2 L579F mutation in patients 
+suffering from polycythemia vera and negative for JAK2 V617F.
+
+Acharya A, Vaniawala S, Parekh H, Sheikh H, Patel H, Ali R, Khan A, Nagee A,
+Kunjadia P, Mukhopadhyaya PN.
+
+Dr. D. Y. Patil Biotechnology &amp; Bioinformatics Institute, Pune, India.
+
+PMID: 24033912  [PubMed - as supplied by publisher]
+
+
+71. Biotechnol Appl Biochem. 2013 Aug 28. doi: 10.1002/bab.1152. [Epub ahead of
+print]
+
+Functional and transcriptomic analysis of the regulation of osteoblasts by
+mechano-growth factor E peptide.
+
+Xin J, Wang Y, Wang Z, Lin F.
+
+College of Communication Engineering, Chongqing University, Chongqing, 400030,
+China; Bioengineering College, Chongqing University, Chongqing, 400030, China.
+
+Mechano-growth factor (MGF), a splice variant of insulin-like growth factor I
+(IGF-I), was discovered by Goldspink and colleagues in 1996, since which many
+studies have implicated MGF as an important local tissue repair factor. While the
+short 24-amino acid C-terminal peptide of MGF (MGF-Ct24E) has a variety of
+biological activities, its role in bone formation has not yet been clarified.
+Accordingly, the aim of this study was to investigate the role of MGF-Ct24E on
+the proliferation, differentiation and mineralization of rat calvarial
+osteoblasts. Interestingly, while MGF-Ct24E significantly increased the
+proliferation and retarded the differentiation of osteoblasts during the first
+three days, prolonged treatment with MGF-Ct24E for up to three weeks promoted
+cell differentiation. In order to determine the molecular mechanisms behind this 
+plurality, we carried out global transcriptional profiling of osteoblasts in
+response to MGF-Ct24E and identified differentially expressed genes by
+bioinformatics analysis. Gene ontology (GO) analysis indicated that MGF-Ct24E
+enhanced the expression of genes associated with osteoblast proliferation and the
+cell cycle, and down-regulated genes involved with osteoblast differentiation,
+skeletal system and bone development. Moreover, KEGG pathway-based analysis
+indicated that MGF-Ct24E directly altered focal adhesion and cell cycle
+progression, in addition to regulating the actin cytoskeleton and gap junctions. 
+In conclusion, MGF-Ct24E has a marked ability to increase bone formation by
+increasing cell proliferation and delaying cell differentiation during prophase, 
+as well as by stimulating osteoblast differentiation during advanced stage. The
+mechanism of action of MGF-Ct24E during the initial stages of bone formation in
+vitro involves up-regulation of the expression of genes involved in proliferation
+and cell cycle progression, and the repression of differentiation-related genes.
+
+This article is protected by copyright. All rights reserved.
+
+PMID: 24033831  [PubMed - as supplied by publisher]
+
+
+72. Evolution. 2013 Sep;67(9):2604-13. doi: 10.1111/evo.12129. Epub 2013 May 11.
+
+Short indels are subject to insertion-biased gene conversion.
+
+Leushkin EV, Bazykin GA.
+
+Department of Bioengineering and Bioinformatics, Lomonosov Moscow State
+University, Leninskye Gory 1-73, Moscow, 119992, Russia; Institute for
+Information Transmission Problems of the Russian Academy of Sciences (Kharkevich 
+Institute), Bolshoi Karetny pereulok, 19, Moscow, 127994, Russia.
+leushkin@gmail.com.
+
+Recombination between homologous loci is accompanied by formation of
+heteroduplexes. Repairing mismatches in heteroduplexes often leads to single
+nucleotide substitutions in a process known as gene conversion. Gene conversion
+was shown to be GC-biased in different organisms; that is, a W(A or T)→S(G or C) 
+substitution is more likely in this process than a S→W substitution. Here, we
+show that the insertion/deletion ratio for short noncoding indels that reach
+fixation between species is positively correlated with the recombination rate in 
+Drosophila melanogaster, Homo sapiens, and Saccharomyces cerevisiae. This
+correlation is both due to an increase of the fixation rate of insertions and
+decrease of the fixation rate of deletions in regions of high recombination.
+Whole-genome data on indel polymorphism and divergence in D. melanogaster rule
+out mutation biases and selection as the cause of this trend, pointing to
+insertion-biased gene conversion as the most likely explanation. The bias toward 
+insertions is the strongest for single-nucleotide indels, and decreases with
+indel length. In regions of high recombination rate this bias leads to an up to
+∼5-fold excess of fixed short insertions over deletions, and substantially
+affects the evolution of DNA segments.
+
+© 2013 The Author(s). Evolution © 2013 The Society for the Study of Evolution.
+
+PMID: 24033170  [PubMed - in process]
+
+
+73. Biometrics. 2013 Aug 22:1-12. doi: 10.1111/biom.12068. [Epub ahead of print]
+
+A hierarchical model for probabilistic independent component analysis of
+multi-subject fMRI studies.
+
+Guo Y, Tang L.
+
+Department of Biostatistics and Bioinformatics, Rollins School of Public Health, 
+Emory University, Atlanta, Georgia 30322, U.S.A.
+
+An important goal in fMRI studies is to decompose the observed series of brain
+images to identify and characterize underlying brain functional networks.
+Independent component analysis (ICA) has been shown to be a powerful
+computational tool for this purpose. Classic ICA has been successfully applied to
+single-subject fMRI data. The extension of ICA to group inferences in
+neuroimaging studies, however, is challenging due to the unavailability of a
+pre-specified group design matrix. Existing group ICA methods generally
+concatenate observed fMRI data across subjects on the temporal domain and then
+decompose multi-subject data in a similar manner to single-subject ICA. The major
+limitation of existing methods is that they ignore between-subject variability in
+spatial distributions of brain functional networks in group ICA. In this article,
+we propose a new hierarchical probabilistic group ICA method to formally model
+subject-specific effects in both temporal and spatial domains when decomposing
+multi-subject fMRI data. The proposed method provides model-based estimation of
+brain functional networks at both the population and subject level. An important 
+advantage of the hierarchical model is that it provides a formal statistical
+framework to investigate similarities and differences in brain functional
+networks across subjects, for example, subjects with mental disorders or
+neurodegenerative diseases such as Parkinson's as compared to normal subjects. We
+develop an EM algorithm for model estimation where both the E-step and M-step
+have explicit forms. We compare the performance of the proposed hierarchical
+model with that of two popular group ICA methods via simulation studies. We
+illustrate our method with application to an fMRI study of Zen meditation.
+
+© 2013, The International Biometric Society.
+
+PMID: 24033125  [PubMed - as supplied by publisher]
+
+
+74. New Phytol. 2013 Sep 13. doi: 10.1111/nph.12458. [Epub ahead of print]
+
+A synthetic framework for modeling the genetic basis of phenotypic plasticity and
+its costs.
+
+Zhai Y, Lv Y, Li X, Wu W, Bo W, Shen D, Xu F, Pang X, Zheng B, Wu R.
+
+Center for Computational Biology, Beijing Forestry University, Beijing, 100083,
+China.
+
+The phenotype of an individual is controlled not only by its genes, but also by
+the environment in which it grows. A growing body of evidence shows that the
+extent to which phenotypic changes are driven by the environment, known as
+phenotypic plasticity, is also under genetic control, but an overall picture of
+genetic variation for phenotypic plasticity remains elusive. Here, we develop a
+model for mapping quantitative trait loci (QTLs) that regulate
+environment-induced plastic response. This model enables geneticists to test
+whether there exist actual QTLs that determine phenotypic plasticity and, if
+there are, further test how plasticity QTLs control the costs of plastic response
+by dissecting the genetic correlation of phenotypic plasticity and trait value.
+The model was used to analyze real data for grain yield of winter wheat (Triticum
+aestivum), leading to the detection of pleiotropic QTLs and epistatic QTLs that
+affect phenotypic plasticity and its cost in this crop.
+
+© 2013 The Authors. New Phytologist © 2013 New Phytologist Trust.
+
+PMID: 24032980  [PubMed - as supplied by publisher]
+
+
+75. Phys Rev E Stat Nonlin Soft Matter Phys. 2013 Aug;88(2):022713. Epub 2013 Aug 20.
+
+Multiscale codes in the nervous system: The problem of noise correlations and the
+ambiguity of periodic scales.
+
+Mathis A, Herz AV, Stemmler MB.
+
+Bernstein Center for Computational Neuroscience, and Department of Biology II,
+Ludwig-Maximilians-Universität München, 82152 Planegg-Martinsried, Germany.
+
+Encoding information about continuous variables using noisy computational units
+is a challenge; nonetheless, asymptotic theory shows that combining multiple
+periodic scales for coding can be highly precise despite the corrupting influence
+of noise [Mathis, Herz, and Stemmler, Phys. Rev. Lett. 109, 018103 (2012)].
+Indeed, the cortex seems to use periodic, multiscale grid codes to represent
+position accurately. Here we show how such codes can be read out without taking
+the long-term limit; even on short time scales, the precision of such codes
+scales exponentially in the number N of neurons. Does this finding also hold for 
+neurons that are not firing in a statistically independent fashion? To assess the
+extent to which biological grid codes are subject to statistical dependences, we 
+first analyze the noise correlations between pairs of grid code neurons in
+behaving rodents. We find that if the grids of two neurons align and have the
+same length scale, the noise correlations between the neurons can reach values as
+high as 0.8. For increasing mismatches between the grids of the two neurons, the 
+noise correlations fall rapidly. Incorporating such correlations into a
+population coding model reveals that the correlations lessen the resolution, but 
+the exponential scaling of resolution with N is unaffected.
+
+PMID: 24032870  [PubMed - in process]
+
+
+76. Phys Rev E Stat Nonlin Soft Matter Phys. 2013 Aug;88(2):022710. Epub 2013 Aug 14.
+
+Exact partition function zeros of the Wako-Saitô-Muñoz-Eaton β hairpin model.
+
+Lee J.
+
+Department of Bioinformatics and Life Science, Soongsil University, Seoul
+156-743, Korea.
+
+I compute exact partition function zeros of β hairpins, using both analytic and
+numerical methods, extending previous work [J. Lee, Phys. Rev. Lett. 110, 248101 
+(2013)] where only a restricted class of hairpins was considered. The zeros of β 
+hairpins with an odd number of peptide bonds are computed and the difference of
+the distribution of zeros from those for an even number of peptide bonds is
+explained in terms of additional entropy of liberating the extra bond at the turn
+region. Upon the introduction of a hydrophobic core in the central region of the 
+hairpin, the zeros are distributed uniformly on two concentric circles
+corresponding to the hydrophobic collapse and the transition to the fully folded 
+conformation. One of the circles dissolves as the core moves toward the turn or
+the tip region, which is explained in terms of the similarity of the intermediate
+state with the folded or unfolded states. The exact partition function zeros for 
+a hairpin with a more complex structure of native contacts, the 16 C-terminal
+residues of streptococcal protein G B1, are numerically computed and their loci
+are closely approximated by concentric circles.
+
+PMID: 24032867  [PubMed - in process]
+
+
+77. Phys Rev E Stat Nonlin Soft Matter Phys. 2013 Aug;88(2):022703. Epub 2013 Aug 8.
+
+Role of directional fidelity in multiple aspects of extreme performance of the
+F_{1}-ATPase motor.
+
+Hou R, Wang Z.
+
+Department of Physics, National University of Singapore, Singapore 117542 and
+Center for Computational Science and Engineering, National University of
+Singapore, Singapore 117542.
+
+Quantitative understanding of the best possible performance of nanomotors allowed
+by physical laws pertains to the study of nanomotors from biology as well as
+nanotechnology. The biological nanomotor F_{1} ATPase is the best available model
+system as it is the only nanomotor known for extreme energy conversion near the
+limit of energy conservation. Using a unified theoretical framework centered on a
+concept called directional fidelity, we analyze recent experiments in which the
+F_{1} motor's performance was measured for controlled chemical potentials and
+expose from the experiments quantitative evidence for the motor's multiple
+extreme performances in directional fidelity, speed, and catalytic capability
+close to physical limits. Specifically, the motor nearly exhausts the available
+energy from the fuel to retain the highest possible directional fidelity for an
+arbitrary load, encompassing the motor's extreme energy conversion and beyond.
+The theory-experiment comparison implies a tight chemomechanical coupling up to
+stalemate as futile steps occur, but unlikely involve fuel consumption. The
+F_{1}-motor data also help clarify the relation between directional fidelity and 
+experimentally measured stepping ratio.
+
+PMID: 24032860  [PubMed - in process]
+
+
+78. Phys Rev E Stat Nonlin Soft Matter Phys. 2013 Aug;88(2):022701. Epub 2013 Aug 1.
+
+DNA-binding-protein inhomogeneity in E. coli modeled as biphasic facilitated
+diffusion.
+
+Kuhlman TE, Cox EC.
+
+Department of Physics, Center for the Physics of Living Cells, and Center for
+Biophysics and Computational Biology, University of Illinois at Urbana-Champaign,
+Urbana, Illinois 61801-3080, USA.
+
+We have recently shown that nonspecifically bound lac repressors are spatially
+inhomogeneous in E. coli cells and depends upon the location of its encoding gene
+and the DNA compaction state [Kuhlman and Cox, Mol. Syst. Biol. 8, 610 (2012)].
+Here we model this inhomogeneity as a consequence of diffusion within and
+exchange between two distinct intracellular phases: the condensed chromosomal DNA
+and an extrachromosomal compartment, the cytoplasm. We discuss the consequences
+of this model for the target search process.
+
+PMID: 24032858  [PubMed - in process]
+
+
+79. J Proteome Res. 2013 Sep 16. [Epub ahead of print]
+
+Improving the identification rate of endogenous peptide using electron transfer
+dissociation and collision-induced dissociation.
+
+Hayakawa E, Menschaert G, De Bock PJ, Luyten W, Gevaert K, Baggerman G, Schoofs
+L.
+
+Tandem mass spectrometry (MS/MS) combined with bioinformatics tools have enabled 
+fast and systematic protein identification based on peptide-to-spectrum matches. 
+However, it remains challenging to obtain accurate identification of endogenous
+peptides, such as neuropeptides, peptide hormones, peptide pheromones, venom
+peptides and antimicrobial peptides. Since these peptides are processed at sites 
+that are difficult to predict reliably, the search of their MS/MS spectra in
+sequence databases needs to be done without any protease setting. In addition,
+many endogenous peptides carry various post-translational modifications, making
+it essential to take these into account in the database search. These
+characteristics of endogenous peptides result in a huge search space, frequently 
+leading to poor confidence of the peptide characterizations. We have developed a 
+new MS/MS spectrum search tool for highly accurate and confident identification
+of endogenous peptides by combining two different fragmentation methods. Our
+approach takes advantage of the combination of two independent fragmentation
+methods (collision-induced dissociation and electron transfer dissociation).
+Their peptide spectral matching is carried out separately in both methods, and
+the final score is built as a combination of the two separate scores. We
+demonstrate that this approach is very effective in discriminating correct
+peptide identifications from false hits. We applied this approach to a spectral
+data set of neuropeptides extracted from mouse pituitary tumor cells. Compared to
+conventional MS-based identification, i.e., using a single fragmentation method, 
+our approach significantly increased the peptide identification rate. It proved
+also highly effective for scanning spectra against a very large search space,
+enabling more accurate genome-wide searches and searches including multiple
+potential post-translational modifications.
+
+PMID: 24032530  [PubMed - as supplied by publisher]
+
+
+80. Front Genet. 2013 Aug 26;4:160.
+
+The Role and Challenges of Exome Sequencing in Studies of Human Diseases.
+
+Wang Z, Liu X, Yang BZ, Gelernter J.
+
+Department of Biostatistics, Yale School of Public Health, Yale University New
+Haven, CT, USA.
+
+Recent advances in next-generation sequencing technologies have transformed the
+genetics study of human diseases; this is an era of unprecedented productivity.
+Exome sequencing, the targeted sequencing of the protein-coding portion of the
+human genome, has been shown to be a powerful and cost-effective method for
+detection of disease variants underlying Mendelian disorders. Increasing effort
+has been made in the interest of the identification of rare variants associated
+with complex traits in sequencing studies. Here we provided an overview of the
+application fields for exome sequencing in human diseases. We describe a general 
+framework of computation and bioinformatics for handling sequencing data. We then
+demonstrate data quality and agreement between exome sequencing and exome
+microarray (chip) genotypes using data collected on the same set of subjects in a
+genetic study of panic disorder. Our results show that, in sequencing data, the
+data quality was generally higher for variants within the exonic target regions, 
+compared to that outside the target regions, due to the target enrichment. We
+also compared genotype concordance for variant calls obtained by exome sequencing
+vs. exome genotyping microarrays. The overall consistency rate was &gt;99.83% and
+the heterozygous consistency rate was &gt;97.55%. The two platforms share a large
+amount of agreement over low frequency variants in the exonic regions, while
+exome sequencing provides much more information on variants not included on exome
+genotyping microarrays. The results demonstrate that exome sequencing data are of
+high quality and can be used to investigate the role of rare coding variants in
+human diseases.
+
+PMCID: PMC3752524
+PMID: 24032039  [PubMed - as supplied by publisher]
+
+
+81. Braz J Microbiol. 2012 Oct;43(4):1632-40. doi: 10.1590/S1517-838220120004000048. 
+Epub 2012 Jun 1.
+
+Pseudorabies virus can be classified into five genotypes using partial sequences 
+of UL44.
+
+Fonseca AA Jr, Camargos MF, Sales ML, Heinemann MB, Leite RC, Reis JK.
+
+Laboratório Nacional Agropecuário, Ministério da Agricultura, Pecuária e
+Abastecimento , Pedro Leopoldo, MG , Brasil.
+
+Suid herpesvirus 1 (SuHV-1) is the causative agent of pseudorabies (PR), a
+disease of great importance due to the huge losses it causes in the swine
+industry. The aim of this study was to determine a method for genotyping SuHV-1
+based on partial sequences of the gene coding for glycoprotein C (gC) and to
+elucidate the possible reasons for the variability of this region. A total of 109
+gCsequences collected from GenBank were divided into five major groups after
+reconstruction of a phylogenetic tree by Bayesian inference. The analysis showed 
+that a portion of gC (approximately 671 bp) is under selective pressure at
+various points that coincide with regions of protein disorder. It was also
+possible to divide SuHV-1 into five genotypes that evolved under different
+selective pressures. These genotypes are not specific to countries or continents,
+perhaps due to multiple introduction events related to the importation of swine.
+
+PMCID: PMC3769038
+PMID: 24031995  [PubMed]
+
+
+82. Brain. 2013 Sep 11. [Epub ahead of print]
+
+Next generation sequencing for molecular diagnosis of neurological disorders
+using ataxias as a model.
+
+Németh AH, Kwasniewska AC, Lise S, Parolin Schnekenberg R, Becker EB, Bera KD,
+Shanks ME, Gregory L, Buck D, Zameel Cader M, Talbot K, de Silva R, Fletcher N,
+Hastings R, Jayawant S, Morrison PJ, Worth P, Taylor M, Tolmie J, O'Regan M; UK
+Ataxia Consortium, Valentine R, Packham E, Evans J, Seller A, Ragoussis J.
+
+1 Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford OX3
+9DU, UK.
+
+Many neurological conditions are caused by immensely heterogeneous gene
+mutations. The diagnostic process is often long and complex with most patients
+undergoing multiple invasive and costly investigations without ever reaching a
+conclusive molecular diagnosis. The advent of massively parallel, next-generation
+sequencing promises to revolutionize genetic testing and shorten the 'diagnostic 
+odyssey' for many of these patients. We performed a pilot study using
+heterogeneous ataxias as a model neurogenetic disorder to assess the introduction
+of next-generation sequencing into clinical practice. We captured 58 known human 
+ataxia genes followed by Illumina Next-Generation Sequencing in 50 highly
+heterogeneous patients with ataxia who had been extensively investigated and were
+refractory to diagnosis. All cases had been tested for spinocerebellar ataxia
+1-3, 6, 7 and Friedrich's ataxia and had multiple other biochemical, genetic and 
+invasive tests. In those cases where we identified the genetic mutation, we
+determined the time to diagnosis. Pathogenicity was assessed using a
+bioinformatics pipeline and novel variants were validated using functional
+experiments. The overall detection rate in our heterogeneous cohort was 18% and
+varied from 8.3% in those with an adult onset progressive disorder to 40% in
+those with a childhood or adolescent onset progressive disorder. The highest
+detection rate was in those with an adolescent onset and a family history (75%). 
+The majority of cases with detectable mutations had a childhood onset but most
+are now adults, reflecting the long delay in diagnosis. The delays were primarily
+related to lack of easily available clinical testing, but other factors included 
+the presence of atypical phenotypes and the use of indirect testing. In the cases
+where we made an eventual diagnosis, the delay was 3-35 years (mean 18.1 years). 
+Alignment and coverage metrics indicated that the capture and sequencing was
+highly efficient and the consumable cost was ∼£400 (€460 or US$620). Our
+pathogenicity interpretation pathway predicted 13 different mutations in eight
+different genes: PRKCG, TTBK2, SETX, SPTBN2, SACS, MRE11, KCNC3 and DARS2 of
+which nine were novel including one causing a newly described recessive ataxia
+syndrome. Genetic testing using targeted capture followed by next-generation
+sequencing was efficient, cost-effective, and enabled a molecular diagnosis in
+many refractory cases. A specific challenge of next-generation sequencing data is
+pathogenicity interpretation, but functional analysis confirmed the pathogenicity
+of novel variants showing that the pipeline was robust. Our results have broad
+implications for clinical neurology practice and the approach to diagnostic
+testing.
+
+PMID: 24030952  [PubMed - as supplied by publisher]
+
+
+83. Proteomics. 2013 Sep 9. doi: 10.1002/pmic.201300031. [Epub ahead of print]
+
+Proteome Analysis of Functionally Differentiated Bovine (Bos indicus) Mammary
+Epithelial Cells isolated from Milk.
+
+Janjanam J, Jamwal M, Singh S, Kumar S, Panigrahi AK, Hariprasad G, Jena MK,
+Anand V, Kumar S, Kaushik JK, Dang AK, Mukesh M, Mishra BP, Srinivasan A, Reddy
+VS, Mohanty AK.
+
+National Dairy Research Institute (NDRI), Karnal, India; Current address: Dept.
+of Chemistry, Michigan Technological University, Houghton, MI, 49931, USA.
+
+Mammary gland is made up of a branching network of ducts that end in alveoli.
+Terminally differentiated mammary epithelial cells (MECs) constitute the
+innermost layer of aveoli. They are milk secreting cuboidal cells that secrete
+milk proteins during lactation. Little is known about the expression profile of
+proteins in the metabolically active MECs during lactation or their functional
+role in the lactation process. In the present investigation we have reported the 
+proteome map of MECs in lactating cows using 2-DE MALDI-TOF/TOF MS and
+1-D-Gel-LC-MS/MS. MECs were isolated from milk using immunomagnetic beads and
+confirmed by RT-PCR and western blotting. The 1-D-Gel-LC-MS/MS and 2-DE-MS/MS
+based approaches led to identification of 431 and 134 proteins, respectively,
+with a total of 497 unique proteins. Proteins identified in this study were
+clustered into functional groups using bioinformatics tools. Pathway analysis of 
+the identified proteins revealed 28 pathways (P &lt; 0.05) providing evidence for
+involvement of various proteins in lactation function. This study further
+provides experimental evidence for the presence of many proteins that have been
+predicted in annotated bovine genome. The data generated further provides a set
+of bovine MEC specific proteins which will help the researchers to understand the
+molecular events taking place during lactation. This article is protected by
+copyright. All rights reserved.
+
+This article is protected by copyright. All rights reserved.
+
+PMID: 24030930  [PubMed - as supplied by publisher]
+
+
+84. Database (Oxford). 2013 Sep 11;2013:bat063. doi: 10.1093/database/bat063. Print
+2013.
+
+IQdb: an intelligence quotient score-associated gene resource for human
+intelligence.
+
+Kong L, Cheng L, Fan LY, Zhao M, Qu H.
+
+Center for Bioinformatics, State Key Laboratory of Protein and Plant Gene
+Research, College of Life Sciences, Peking University, Beijing 100871, P.R.
+China.
+
+Intelligence quotient (IQ) is the most widely used phenotype to characterize
+human cognitive abilities. Recent advances in studies on human intelligence have 
+identified many new susceptibility genes. However, the genetic mechanisms
+involved in IQ score and the relationship between IQ score and the risk of mental
+disorders have won little attention. To address the genetic complexity of IQ
+score, we have developed IQdb (http://IQdb.cbi.pku.edu.cn), a publicly available 
+database for exploring IQ-associated human genes. In total, we collected 158
+experimental verified genes from literature as a core dataset in IQdb. In
+addition, 46 genomic regions related to IQ score have been curated from
+literature. Based on the core dataset and 46 confirmed linked genomic regions,
+more than 6932 potential IQ-related genes are expanded using data of
+protein-protein interactions. A systematic gene ranking approach was applied to
+all the collected and expanded genes to represent the relative importance of all 
+the 7090 genes in IQdb. Our further systematic pathway analysis reveals that
+IQ-associated genes are significantly enriched in multiple signal events,
+especially related to cognitive systems. Of the 158 genes in the core dataset, 81
+are involved in various psychotic and mental disorders. This comprehensive gene
+resource illustrates the importance of IQdb to our understanding on human
+intelligence, and highlights the utility of IQdb for elucidating the functions of
+IQ-associated genes and the cross-talk mechanisms among cognition-related
+pathways in some mental disorders for community. Database URL:
+http://IQdb.cbi.pku.edu.cn.
+
+PMCID: PMC3770929
+PMID: 24030781  [PubMed - in process]
+
+
+85. Brief Bioinform. 2013 Sep;14(5):527. doi: 10.1093/bib/bbt064.
+
+Editorial: International, interdisciplinary, multi-level bioinformatics training 
+and education.
+
+Schneider MV, Jungck JR.
+
+PMID: 24030777  [PubMed - in process]
+
+
+86. Mol Cell Proteomics. 2013 Sep 13. [Epub ahead of print]
+
+Quantitative Proteomic and Functioanl Analysis of Liver Mitochondria from High
+Fat Diet Diabetic Mice.
+
+Guo Y, Darshi M, Ma Y, Perkins GA, Shen Z, Haushalter KJ, Saito R, Chen A, Lee
+YS, Patel HH, Briggs SP, Ellisman MH, Olefsky JM, Taylor SS.
+
+University of California, San Diego, United States;
+
+Insulin resistance plays a major role in the development of type 2 diabetes (T2D)
+and obesity and affects a number of biological processes such as mitochondrial
+biogenesis. Though mitochondrial dysfunction has been linked to the development
+of insulin resistance and pathogenesis of T2D,, the precise mechanism linking the
+two is not well understood. We used high fat diet (HFD)-induced obesity dependent
+diabetes mouse models to gain insight into the potential pathways altered with
+metabolic disease, and carried out quantitative proteomic analysis of liver
+mitochondria. As previously reported, proteins involved in fatty acid oxidation, 
+branched chain amino acid degradation, tricarboxylic acid cycle, and oxidative
+phosphorylation were uniformly up-regulated in HFD fed mice compared to that of
+normal diet (ND).. Further, our studies revealed that retinol metabolism is
+distinctly down-regulated and the mitochondrial structural proteins -components
+of mitochondrial inter-membrane space bridging (MIB) complex (Mitofilin, Sam50
+and ChChd3), and Tim proteins- essential for protein import, are significantly
+up-regulated in HFD fed mice. Structural and functional studies on HFD- and ND
+liver mitochondria revealed remodeling of HFD mitochondria to a more condensed
+form with increased respiratory capacity and higher ATP levels compared to ND
+mitochondria. Thus, it is likely that the structural remodeling is essential to
+accommodate the increased protein content in presence of HFD: the mechanism could
+be through the MIB-complex promoting contact site and crista junction formation
+and in turn facilitating the lipid and protein uptake.
+
+PMID: 24030101  [PubMed - as supplied by publisher]
+
+
+87. Ann Biomed Eng. 2013 Sep 13. [Epub ahead of print]
+
+Microstructured Extracellular Matrices in Tissue Engineering and Development: An 
+Update.
+
+Tien J, Nelson CM.
+
+Department of Biomedical Engineering, Boston University, 44 Cummington Mall,
+Boston, MA, 02215, USA, jtien@bu.edu.
+
+Microstructured extracellular matrix (ECM), which contains heterogeneous features
+of the same size scale (5-100&nbsp;μm) as tissue organoids, has become an important
+material for the engineering of functional tissues and for the study of
+tissue-level biology. This review describes methods to generate this class of
+ECM, and highlights recent advances in the application of microstructured ECM to 
+problems in basic and applied biology. It also discusses computational techniques
+to analyze and optimize the microstructural patterns for a desired functional
+output.
+
+PMID: 24030067  [PubMed - as supplied by publisher]
+
+
+88. J Microbiol Methods. 2013 Sep 9. pii: S0167-7012(13)00274-1. doi:
+10.1016/j.mimet.2013.08.011. [Epub ahead of print]
+
+High throughput sequencing methods and analysis for microbiome research.
+
+Di Bella JM, Bao Y, Gloor GB, Burton JP, Reid G.
+
+Department of Microbiology and Immunology, The University of Western Ontario,
+London, ON, Canada.
+
+High-throughput sequencing technology is rapidly improving in quality, speed and 
+cost. It is therefore becoming more widely used to study whole communities of
+prokaryotes in many niches. This review discusses these techniques, including
+nucleic acid extraction from different environments, sample preparation and
+high-throughput sequencing platforms. We also discuss commonly used and recently 
+developed bioinformatic tools applied to microbiomes, including for analyzing
+amplicon sequences, metagenome shotgun sequences and metatranscriptome sequences.
+This field is relatively new and rapidly evolving, thus we hope that this review 
+will provide a baseline for understanding these methods of microbiome analyses.
+Additionally, we seek to stimulate others to solve the many problems that still
+exist with the sensitivity, specificity and interpretation of high throughput
+microbiome sequence analysis.
+
+© 2013 Elsevier B.V. All rights reserved.
+
+PMID: 24029734  [PubMed - as supplied by publisher]
+
+
+89. Endocrinology. 2013 Sep 12. [Epub ahead of print]
+
+Effects of Antenatal Synthetic Glucocorticoid on Glucocorticoid Receptor Binding,
+DNA Methylation, and Genome-Wide mRNA Levels in the Fetal Male Hippocampus.
+
+Crudo A, Petropoulos S, Suderman M, Moisiadis VG, Kostaki A, Hallett M, Szyf M,
+Matthews SG.
+
+Department Pharmacology &amp; Therapeutics (A.C., S.P., M.Su., M.Sz.), McGill
+University, Montreal, Canada; Sackler Program for Epigenetics and Psychobiology
+(A.C., M.Su., M.Sz.), McGill University, Montreal, Quebec, Canada; Department of 
+Physiology (V.G.M., A.K., S.G.M.), Departments of Obstetrics and Gynecology
+(S.G.M.), and Department of Medicine (S.G.M.) University of Toronto, Toronto,
+Ontario, Canada M5S 1A8; and McGill Centre for Bioinformatics (M.Su., M.H.),
+McGill University, Montreal, Quebec, Canada.
+
+The endogenous glucocorticoid (GC) surge in late gestation plays a vital role in 
+maturation of several organ systems. For this reason, pregnant women at risk of
+preterm labor are administered synthetic glucocorticoids (sGCs) to promote fetal 
+lung development. Animal studies have shown that fetal sGC exposure can cause
+life-long changes in endocrine and metabolic function. We have previously shown
+that antenatal sGC treatment is associated with alterations in global DNA
+methylation and modifications to the hippocampal methylome and acetylome. In this
+study, we hypothesized that: 1) there are changes in the transcriptional
+landscape of the fetal hippocampus in late gestation, associated with the
+endogenous cortisol surge; 2) fetal sGC exposure alters genome-wide transcription
+in the hippocampus; and 3) these changes in transcription are associated with
+modified glucocorticoid receptor (GR) DNA binding and DNA methylation. sGC was
+administered as 2 courses on gestational days (GD) 40, 41, 50, and 51, and the
+hippocampi of fetal guinea pigs were examined before (GD52) and after (GD65) the 
+endogenous cortisol surge (Term ∼GD67). We also analyzed fetal hippocampi 24
+hours and 14 days following maternal sGC injections (n = 3-4/group). Genome-wide 
+modification of transcription and GR DNA binding occurred in late gestation, in
+parallel with the normal GC surge. Further, sGC exposure had a substantial impact
+on the hippocampal transcriptome, GR-DNA binding, and DNA methylation at 24 hours
+and 14 days following the final sGC treatment. These data support the hypothesis 
+that GC exposure in late gestation plays a significant role in modifying the
+transcriptional and epigenetic landscape of the developing fetal hippocampus and 
+that substantial effects are evident for at least 2 weeks after sGC exposure.
+
+PMID: 24029241  [PubMed - as supplied by publisher]
+
+
+90. J Biomol Struct Dyn. 2013 Sep 13. [Epub ahead of print]
+
+Plasmodium falciparum Hsp70-x: a heat shock protein at the host-parasite
+interface.
+
+Hatherley R, Blatch GL, Bishop OT.
+
+a Department of Biochemistry, Microbiology and Biotechnology, Rhodes University
+Bioinformatics (RUBi) , Rhodes University , Grahamstown , 6140 , South Africa.
+
+Plasmodium falciparum 70 kDa heat shock proteins (PfHsp70s) are expressed at all 
+stages of the pathogenic erythrocytic phase of the malaria parasite life cycle.
+There are six PfHsp70s, all of which have orthologues in other plasmodial
+species, except for PfHsp70-x which is unique to P. falciparum. This research
+highlights a number of original results obtained by a detailed bioinformatics
+analysis of the protein. Large-scale sequence analysis indicated the presence of 
+an extended transit peptide sequence of PfHsp70-x which potentially directs it to
+the endoplasmic reticulum (ER). Further analysis showed that PfHsp70-x does not
+have an ER-retention sequence, suggesting that the protein transits through the
+ER and is secreted into the parasitophorous vacuole or beyond into the
+erythrocyte cytosol. These results are consistent with experimental findings.
+Next, possible interactions between PfHsp70-x and exported P. falciparum Hsp40s
+or host erythrocyte Hsp40 were interrogated by modelling and docking. Docking
+results indicated that interaction between PfHsp70-x and each of the Hsp40s,
+regardless of biological feasibility, seems equally likely. This suggests that J 
+domain might not provide the specificity in the formation of unique Hsp70-Hsp40
+complexes, but that the specificity might be provided by other domains of Hsp40s.
+By studying different structural conformations of PfHsp70-x, it was shown that
+Hsp40s can only bind when PfHsp70-x is in a certain conformation. Additionally,
+this work highlighted the possible dependence of the substrate-binding domain
+residues on the orientation of the α-helical lid for formation of the
+substrate-binding pocket.
+
+PMID: 24028577  [PubMed - as supplied by publisher]
+
+
+91. BMC Bioinformatics. 2013 Sep 12;14(1):273. [Epub ahead of print]
+
+Learning a Markov Logic network for supervised gene regulatory network inference.
+
+Brouard C, Vrain C, Dubois J, Castel D, Debily MA, d'Alché-Buc F.
+
+BACKGROUND: Gene regulatory network inference remains a challenging problem in
+systems biology despite the numerous approaches that have been proposed. When
+substantial knowledge on a gene regulatory network is already available,
+supervised network inference is appropriate. Such a method builds a binary
+classifier able to assign a class (Regulation/No regulation) to an ordered pair
+of genes. Once learnt, the pairwise classifier can be used to predict new
+regulations. In this work, we explore the framework of Markov Logic Networks
+(MLN) that combine features of probabilistic graphical models with the
+expressivity of first-order logic rules.
+RESULTS: We propose to learn a Markov Logic network, e.g. a set of weighted rules
+that conclude on the predicate "regulates", starting from a known gene regulatory
+network involved in the switch proliferation/differentiation of keratinocyte
+cells, a set of experimental transcriptomic data and various descriptions of
+genes all encoded into first-order logic. As training data are unbalanced, we use
+asymmetric bagging to learn a set of MLNs. The prediction of a new regulation can
+then be obtained by averaging predictions of individual MLNs. As a side
+contribution, we propose three in silico tests to assess the performance of any
+pairwise classifier in various network inference tasks on real datasets. A first 
+test consists of measuring the average performance on balanced edge prediction
+problem; a second one deals with the ability of the classifier, once enhanced by 
+asymmetric bagging, to update a given network. Finally our main result concerns a
+third test that measures the ability of the method to predict regulations with a 
+new set of genes. As expected, MLN, when provided with only numerical discretized
+gene expression data, does not perform as well as a pairwise SVM in terms of
+AUPR. However, when a more complete description of gene properties is provided by
+heterogeneous sources, MLN achieves the same performance as a black-box model
+such as a pairwise SVM while providing relevant insights on the predictions.
+CONCLUSIONS: The numerical studies show that MLN achieves very good predictive
+performance while opening the door to some interpretability of the decisions.
+Besides the ability to suggest new regulations, such an approach allows to
+cross-validate experimental data with existing knowledge.
+
+PMID: 24028533  [PubMed - as supplied by publisher]
+
+
+92. J Biomol Struct Dyn. 2013 Sep 13. [Epub ahead of print]
+
+Zebra: a web server for bioinformatic analysis of diverse protein families.
+
+Suplatov D, Kirilin E, Takhaveev V, Svedas V.
+
+a Faculty of Bioengineering and Bioinformatics , Belozersky Institute of
+Physicochemical Biology, Lomonosov Moscow State University , Vorobjev hills, 1-40
+, Moscow , 119991 , Russia.
+
+During evolution of proteins from a common ancestor, one functional property can 
+be preserved while others can vary leading to functional diversity. A systematic 
+study of the corresponding adaptive mutations provides a key to one of the most
+challenging problems of modern structural biology - understanding the impact of
+amino acid substitutions on protein function. The subfamily-specific positions
+(SSPs) are conserved within functional subfamilies but are different between them
+and, therefore, seem to be responsible for functional diversity in protein
+superfamilies. Consequently, a corresponding method to perform the bioinformatic 
+analysis of sequence and structural data has to be implemented in the common
+laboratory practice to study the structure-function relationship in proteins and 
+develop novel protein engineering strategies. This paper describes Zebra web
+server - a powerful remote platform that implements a novel bioinformatic
+analysis algorithm to study diverse protein families. It is the first application
+that provides specificity determinants at different levels of functional
+classification, therefore addressing complex functional diversity of large
+superfamilies. Statistical analysis is implemented to automatically select a set 
+of highly significant SSPs to be used as hotspots for directed evolution or
+rational design experiments and analyzed studying the structure-function
+relationship. Zebra results are provided in two ways - (1) as a single all-in-one
+parsable text file and (2) as PyMol sessions with structural representation of
+SSPs. Zebra web server is available at http://biokinet.belozersky.msu.ru/zebra .
+
+PMID: 24028489  [PubMed - as supplied by publisher]
+
+
+93. J Biomol Struct Dyn. 2013 Sep 13. [Epub ahead of print]
+
+Structure-wise discrimination of cytosine, thymine, and uracil by proteins in
+terms of their nonbonded interactions.
+
+Usha S, Selvaraj S.
+
+a Department of Bioinformatics, School of Life Sciences , Bharathidasan
+University , Tiruchirappalli , 620 024 , Tamilnadu , India.
+
+The molecular recognition and discrimination of very similar ligand moieties by
+proteins are important subjects in protein-ligand interaction studies.
+Specificity in the recognition of molecules is determined by the arrangement of
+protein and ligand atoms in space. The three pyrimidine bases, viz. cytosine,
+thymine, and uracil, are structurally similar, but the proteins that bind to them
+are able to discriminate them and form interactions. Since nonbonded interactions
+are responsible for molecular recognition processes in biological systems, our
+work attempts to understand some of the underlying principles of such recognition
+of pyrimidine molecular structures by proteins. The preferences of the amino acid
+residues to contact the pyrimidine bases in terms of nonbonded interactions;
+amino acid residue-ligand atom preferences; main chain and side chain atom
+contributions of amino acid residues; and solvent-accessible surface area of
+ligand atoms when forming complexes are analyzed. Our analysis shows that the
+amino acid residues, tyrosine and phenyl alanine, are highly involved in the
+pyrimidine interactions. Arginine prefers contacts with the cytosine base. The
+similarities and differences that exist between the interactions of the amino
+acid residues with each of the three pyrimidine base atoms in our analysis
+provide insights that can be exploited in designing specific inhibitors
+competitive to the ligands.
+
+PMID: 24028440  [PubMed - as supplied by publisher]
+
+
+94. J Chem Phys. 2013 Sep 7;139(9):094113. doi: 10.1063/1.4818599.
+
+Trimer effects in fragment molecular orbital-linear combination of molecular
+orbitals calculation of one-electron orbitals for biomolecules.
+
+Kobori T, Sodeyama K, Otsuka T, Tateyama Y, Tsuneyuki S.
+
+RIKEN Quantitative Biology Center (QBiC), 1-6-5 Minatojima-Minamimachi, Chuo-ku, 
+Kobe, Hyogo 650-0047, Japan.
+
+The fragment molecular orbital (FMO)-linear combination of molecular orbitals
+(LCMO) method incorporates as an efficient post-process calculation of
+one-electron orbitals of the whole system after the FMO total energy calculation.
+A straightforward way to increase the accuracy is inclusion of the trimer effect.
+Here, we derive a comprehensive formulation called the FMO3-LCMO method. To keep 
+the computational costs of the trimer term low enough, we use a matrix-size
+reduction technique. We evaluated the accuracy and efficiency of the FMO3-LCMO
+scheme in model biological systems (alanine oligomer and chignolin). The results 
+show that delocalized electronic orbitals with covalent and hydrogen bonds are
+better described at the trimer level, and the FMO3-LCMO method is applicable to
+quantitative evaluations of a wide range of frontier orbitals in large
+biosystems.
+
+PMID: 24028108  [PubMed - in process]
+
+
+95. BMC Med Genomics. 2013 Sep 12;6(1):31. [Epub ahead of print]
+
+Genotyping of human neutrophil antigens (HNA) from whole genome sequencing data.
+
+Chu HT, Lin H, Tsao TT, Chang CF, Hsiao WW, Yeh TJ, Chang CM, Liu YW, Wang TY,
+Yang KC, Chen TJ, Chen JC, Chen KC, Kao CY.
+
+BACKGROUND: Neutrophil antigens are involved in a variety of clinical conditions 
+including transfusion-related acute lung injury (TRALI) and other
+transfusion-related diseases. Recently, there are five characterized groups of
+human neutrophil antigen (HNA) systems, the HNA1 to 5. Characterization of all
+neutrophil antigens from whole genome sequencing (WGS) data may be accomplished
+for revealing complete genotyping formats of neutrophil antigens collectively at 
+genome level with molecular variations which may respectively be revealed with
+available genotyping techniques for neutrophil antigens conventionally.
+RESULTS: We developed a computing method for the genotyping of human neutrophil
+antigens. Six samples from two families, available from the 1000 Genomes
+projects, were used for a HNA typing test. There are 500 ~ 3000 reads per sample 
+filtered from the adopted human WGS datasets in order for identifying single
+nucleotide polymorphisms (SNPs) of neutrophil antigens. The visualization of read
+alignment shows that the yield reads from WGS dataset are enough to cover all of 
+the SNP loci for the antigen system: HNA1, HNA3, HNA4 and HNA5. Consequently, our
+implemented Bioinformatics tool successfully revealed HNA types on all of the six
+samples including sequence-based typing (SBT) as well as PCR sequence-specific
+oligonucleotide probes (SSOP), PCR sequence-specific primers (SSP) and PCR
+restriction fragment length polymorphism (RFLP) along with parentage possibility.
+CONCLUSIONS: The next-generation sequencing technology strives to deliver
+affordable and non-biased sequencing results, hence the complete genotyping
+formats of HNA may be reported collectively from mining the output data of WGS.
+The study shows the feasibility of HNA genotyping through new WGS technologies.
+Our proposed algorithmic methodology is implemented in a HNATyping software
+package with user's guide available to the public at
+http://sourceforge.net/projects/hnatyping/.
+
+PMID: 24028078  [PubMed - as supplied by publisher]
+
+
+96. Wei Sheng Wu Xue Bao. 2013 Jun 4;53(6):561-8.
+
+[Gene cloning and characterization of a solvent-resistant glucose dehydrogenase
+from Bacillus sp. YX-1].
+
+[Article in Chinese]
+
+Zhang B, Zhang R, Wang L, Xu Y.
+
+Key Laboratory of Industrial Biotechnology, Ministry of Education, School of
+Biotechnology, Jiangnan University, Wuxi 214122, China.
+zhangbotao1986@yahoo.com.cn
+
+OBJECTIVE: A gene encoding solvent-resistant glucose dehydrogenase was cloned
+from Bacillus sp. YX-1 and expressed in Escherichia coli. The recombinant enzyme 
+was then characterized.
+METHODS: The glucose dehydrogenase gene was amplified from Bacillus sp. YX-1
+genome according to its conserved sequences in Bacillus sp. The recombinant
+enzyme was over-expressed in E. coli and purified by HisTrap HP affinity
+chromatography. The purified enzyme were characterized.
+RESULTS: The glucose dehydrogenase gene contains an open reading frame of 786 bp 
+encoding 261 amino acids. The maximum activity was observed at 45 degrees C and
+pH 8.0. The recombinant enzyme was highly resistant to several organic solvents. 
+More than 90% of the activity was maintained when the enzyme was incubated in 50%
+cyclohexane, octane, decane at home temperature for 1 h. In addition, the enzyme 
+displayed broad substrate spectrum and has catalytic activity for several sugars 
+to afford reduced coenzymes. It exhibits similar capability to regenerate either 
+NADH or NADPH with specific activity of 8.37 U/mg and 8.62 U/mg for NAD+ and
+NADP+.
+CONCLUSION: The organic solvent-tolerant glucose dehydrogenase was explored
+successfully on the basis of bioinformatics analysis. The work supplied a new
+biocatalyst for the cofactor-regeneration during the reaction in organic phases
+catalyzed by oxidoreductases.
+
+PMID: 24028058  [PubMed - in process]
+
+
+97. Front Physiol. 2013 Sep 4;4:213. doi: 10.3389/fphys.2013.00213.
+
+Bridging the gap between computation and clinical biology: validation of cable
+theory in humans.
+
+Finlay MC, Xu L, Taggart P, Hanson B, Lambiase PD.
+
+Department of Cardiac Electrophysiology, The Heart Hospital, Institute of
+Cardiovascular Science, University College London London, UK.
+
+Introduction: Computerized simulations of cardiac activity have significantly
+contributed to our understanding of cardiac electrophysiology, but techniques of 
+simulations based on patient-acquired data remain in their infancy. We sought to 
+integrate data acquired from human electrophysiological studies into
+patient-specific models, and validated this approach by testing whether
+electrophysiological responses to sequential premature stimuli could be predicted
+in a quantitatively accurate manner. Methods: Eleven patients with structurally
+normal hearts underwent electrophysiological studies. Semi-automated analysis was
+used to reconstruct activation and repolarization dynamics for each electrode.
+This S 2 extrastimuli data was used to inform individualized models of cardiac
+conduction, including a novel derivation of conduction velocity restitution.
+Activation dynamics of multiple premature extrastimuli were then predicted from
+this model and compared against measured patient data as well as data derived
+from the ten-Tusscher cell-ionic model. Results: Activation dynamics following a 
+premature S 3 were significantly different from those after an S 2. Patient
+specific models demonstrated accurate prediction of the S 3 activation wave,
+(Pearson's R (2) = 0.90, median error 4%). Examination of the modeled conduction 
+dynamics allowed inferences into the spatial dispersion of activation delay.
+Further validation was performed against data from the ten-Tusscher cell-ionic
+model, with our model accurately recapitulating predictions of repolarization
+times (R (2) = 0.99). Conclusions: Simulations based on clinically acquired data 
+can be used to successfully predict complex activation patterns following
+sequential extrastimuli. Such modeling techniques may be useful as a method of
+incorporation of clinical data into predictive models.
+
+PMCID: PMC3761165
+PMID: 24027527  [PubMed]
+
+
+98. Evol Bioinform Online. 2013 Sep 1;9:343-53. doi: 10.4137/EBO.S12751.
+
+POPBAM: Tools for Evolutionary Analysis of Short Read Sequence Alignments.
+
+Garrigan D.
+
+Department of Biology, University of Rochester, Rochester, New York 14627 USA.
+
+BACKGROUND: While many bioinformatics tools currently exist for assembling and
+discovering variants from next-generation sequence data, there are very few tools
+available for performing evolutionary analyses from these data. Evolutionary and 
+population genomics studies hold great promise for providing valuable insights
+into natural selection, the effect of mutations on phenotypes, and the origin of 
+species. Thus, there is a need for an extensible and flexible computational tool 
+that can function into a growing number of evolutionary bioinformatics pipelines.
+RESULTS: This paper describes the POPBAM software, which is a comprehensive set
+of computational tools for evolutionary analysis of whole-genome alignments
+consisting of multiple individuals, from multiple populations or species. POPBAM 
+works directly from BAM-formatted assembly files, calls variant sites, and
+calculates a variety of commonly used evolutionary sequence statistics. POPBAM is
+designed primarily to perform analyses in sliding windows across chromosomes or
+scaffolds. POPBAM accurately measures nucleotide diversity, population
+divergence, linkage disequilibrium, and the frequency spectrum of mutations from 
+two or more populations. POPBAM can also produce phylogenetic trees of all
+samples in a BAM file. Finally, I demonstrate that the implementation of POPBAM
+is both fast and memory-efficient, and also can feasibly scale to the analysis of
+large BAM files with many individuals and populations. Software: The POPBAM
+program is written in C/C++ and is available from
+http://dgarriga.github.io/POPBAM. The program has few dependencies and can be
+built on a variety of Linux platforms. The program is open-source and users are
+encouraged to participate in the development of this resource.
+
+PMCID: PMC3767577
+PMID: 24027417  [PubMed]
+
+
+99. J Agric Biol Environ Stat. 2013 Mar 1;18(1):22-38.
+
+Approximate and Pseudo-Likelihood Analysis for Logistic Regression Using External
+Validation Data to Model Log Exposure.
+
+Lyles RH, Kupper LL.
+
+Department of Biostatistics and Bioinformatics, The Rollins School of Public
+Health of Emory University, 1518 Clifton Rd. N.E., Mailstop 1518-002-3AA,
+Atlanta, GA 30322, USA.
+
+A common goal in environmental epidemiologic studies is to undertake logistic
+regression modeling to associate a continuous measure of exposure with binary
+disease status, adjusting for covariates. A frequent complication is that
+exposure may only be measurable indirectly, through a collection of
+subject-specific variables assumed associated with it. Motivated by a specific
+study to investigate the association between lung function and exposure to metal 
+working fluids, we focus on a multiplicative-lognormal structural measurement
+error scenario and approaches to address it when external validation data are
+available. Conceptually, we emphasize the case in which true untransformed
+exposure is of interest in modeling disease status, but measurement error is
+additive on the log scale and thus multiplicative on the raw scale.
+Methodologically, we favor a pseudo-likelihood (PL) approach that exhibits fewer 
+computational problems than direct full maximum likelihood (ML) yet maintains
+consistency under the assumed models without necessitating small exposure effects
+and/or small measurement error assumptions. Such assumptions are required by
+computationally convenient alternative methods like regression calibration (RC)
+and ML based on probit approximations. We summarize simulations demonstrating
+considerable potential for bias in the latter two approaches, while supporting
+the use of PL across a variety of scenarios. We also provide accessible
+strategies for obtaining adjusted standard errors to accompany RC and PL
+estimates.
+
+PMCID: PMC3766852
+PMID: 24027381  [PubMed]
+
+
+100. J Virol. 2013 Sep 11. [Epub ahead of print]
+
+Antibody Recognition of the Pandemic H1N1 Influenza Hemagglutinin Receptor
+Binding Site.
+
+Hong M, Lee PS, Hoffman RM, Zhu X, Krause JC, Laursen NS, Yoon SI, Song L, Tussey
+L, Crowe JE Jr, Ward AB, Wilson IA.
+
+Department of Integrative Structural and Computational Biology.
+
+Influenza virus is a global health concern due to its unpredictable pandemic
+potential. This potential threat was realized in 2009 when an H1N1 virus emerged 
+that resembled the 1918 virus in antigenicity, but fortunately was not nearly as 
+deadly. 5J8 is a human antibody that potently neutralizes a broad spectrum of
+H1N1 viruses, including the 1918 and 2009 pandemic viruses. Here, we present the 
+crystal structure of 5J8 Fab in complex with a bacterially expressed and refolded
+globular head domain from the hemagglutinin (HA) of the A/California/07/2009
+(H1N1) pandemic virus. 5J8 recognizes a conserved epitope in and around the
+receptor binding site (RBS) and its HCDR3 closely mimics interactions of the
+sialic acid receptor. EM reconstructions of 5J8 Fab in complex with an HA trimer 
+from a 1986 H1 strain and with an engineered stabilized HA trimer from the 2009
+H1 pandemic virus showed a similar mode of binding. As for other characterized
+RBS-targeted antibodies, 5J8 uses avidity to extend its breadth and affinity
+against divergent H1 strains. 5J8 selectively interacts with HA insertion residue
+133a, which is conserved in pandemic H1 strains and has precluded binding of
+other RBS-targeted antibodies. Thus, the RBS of divergent HAs is targeted by 5J8 
+and adds to the growing arsenal of common recognition motifs for design of
+therapeutics and vaccines. Moreover, consistent with previous studies,
+bacterially expressed H1 HA properly refolds, retaining its antigenic structure, 
+and presents a low-cost and rapid alternative for engineering and manufacturing
+candidate flu vaccines.
+
+PMID: 24027321  [PubMed - as supplied by publisher]
+
+</pre></body></html>
