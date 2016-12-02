@@ -1,4 +1,4 @@
-package BD.Clase01.MR;
+package bs.mr;
 
 public class ListElement<K extends Comparable<? super K>, V> implements
 		Comparable<ListElement<K, V>> {

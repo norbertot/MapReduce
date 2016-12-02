@@ -1,4 +1,4 @@
-package BD.Clase01.MR;
+package bs.mr;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -10,7 +10,7 @@ import java.text.SimpleDateFormat;
 public class TestMapReduce {
 	
 	public static void main(String [] args){
-		File folder = new File("/Users/norberto/Downloads/texto");
+		File folder = new File("/Users/norberto/Downloads/articulos_exam/txt");
 		MapReduce<String, String, String, Integer> mapReduce = new MapReduce<String, String, String, Integer>(2, 2,new MapperImplementation(), new ReducerImplementation());
 		//TODO test if this can be done parallel or not(That is if it is faster, this of course for one disk implementation)
 		SimpleDateFormat format = new SimpleDateFormat( "yyyy-MM-dd'T'HH:mm:ss.SSSXXX" );

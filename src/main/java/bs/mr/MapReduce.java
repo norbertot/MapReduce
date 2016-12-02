@@ -1,8 +1,9 @@
-package BD.Clase01.MR;
+package bs.mr;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Hashtable;
 import java.util.List;
 
 public class MapReduce<K1 extends Comparable<? super K1>, V1 extends Comparable<? super V1>, K2 extends Comparable<? super K2>, V2 extends Comparable<? super V2>> {
@@ -29,10 +30,12 @@ public class MapReduce<K1 extends Comparable<? super K1>, V1 extends Comparable<
 		this.mapperFunction = mapperFunction;
 		this.mapperFunction.setIntermediateMemory(sharedMemory);
 		this.reducerFunction = reducerFunction;
-		this.reducerFunction.setIntermediateMemory(output);;
+		this.reducerFunction.setIntermediateMemory(output);
+		;
 		createProcesses(numberOfMappers, numberOfReducers);
 		this.input = input;
 	}
+
 	public MapReduce(Integer numberOfMappers, Integer numberOfReducers,
 			Mapper<K1, V1, K2, V2> mapperFunction,
 			Reducer<K2, V2, K2, V2> reducerFunction) {
@@ -43,13 +46,14 @@ public class MapReduce<K1 extends Comparable<? super K1>, V1 extends Comparable<
 		this.mapperFunction = mapperFunction;
 		this.mapperFunction.setIntermediateMemory(sharedMemory);
 		this.reducerFunction = reducerFunction;
-		this.reducerFunction.setIntermediateMemory(output);;
+		this.reducerFunction.setIntermediateMemory(output);
+		;
 		createProcesses(numberOfMappers, numberOfReducers);
 	}
-	
-	public void addInput(K1 key,V1 value){
-		if(input == null){
-			input = new ArrayList<ListElement<K1,V1>>();
+
+	public void addInput(K1 key, V1 value) {
+		if (input == null) {
+			input = new ArrayList<ListElement<K1, V1>>();
 		}
 		input.add(new ListElement<K1, V1>(key, value));
 	}
@@ -67,19 +71,22 @@ public class MapReduce<K1 extends Comparable<? super K1>, V1 extends Comparable<
 	}
 
 	public void runMapReduce() {
-		SimpleDateFormat format = new SimpleDateFormat( "yyyy-MM-dd'T'HH:mm:ss.SSSXXX" );
-		
-		System.out.println("Mapping: "+format.format(System.currentTimeMillis()));
+		SimpleDateFormat format = new SimpleDateFormat(
+				"yyyy-MM-dd'T'HH:mm:ss.SSSXXX");
+
+		System.out.println("Mapping: "
+				+ format.format(System.currentTimeMillis()));
 		runMap();
-		System.out.println("Reducing: "+format.format(System.currentTimeMillis()));
+		System.out.println("Reducing: "
+				+ format.format(System.currentTimeMillis()));
 		runReduce();
-		System.out.println("Finished: "+format.format(System.currentTimeMillis()));
+		System.out.println("Finished: "
+				+ format.format(System.currentTimeMillis()));
 		finished = true;
 	}
 
 	private void runReduce() {
-		sortSharedMemory();
-		assignInputReducers(reducers);
+		assignInputReducers();
 		reduceThreads = new ArrayList<Thread>();
 		for (ReduceTask<K2, V2, K2, V2> reduceTask : reducers) {
 			Thread thread = new Thread(reduceTask);
@@ -93,6 +100,11 @@ public class MapReduce<K1 extends Comparable<? super K1>, V1 extends Comparable<
 				e.printStackTrace();
 			}
 		}
+		//TODO Join the map and reduce thread array
+		reduceThreads.clear();
+		reduceThreads = null;
+		reducers.clear();
+		reducers = null;
 	}
 
 	private void runMap() {
@@ -111,6 +123,10 @@ public class MapReduce<K1 extends Comparable<? super K1>, V1 extends Comparable<
 				e.printStackTrace();
 			}
 		}
+		mapThreads.clear();
+		mapThreads = null;
+		mappers.clear();
+		mappers = null;
 	}
 
 	private void assignInputReducers(List<ReduceTask<K2, V2, K2, V2>> reducers2) {
@@ -129,16 +145,37 @@ public class MapReduce<K1 extends Comparable<? super K1>, V1 extends Comparable<
 		this.sharedMemory = null;
 	}
 
+	private void assignInputReducers() {
+		Hashtable<K2, List<V2>> inputReducers = new Hashtable<K2, List<V2>>();
+		for (ListElement<K2, V2> element : sharedMemory) {
+			List<V2> list = inputReducers.get(element.getKey());
+			if (list == null) {
+				list = new ArrayList<V2>();
+			}
+			list.add(element.getValue());
+			inputReducers.put(element.getKey(), list);
+		}
+		this.sharedMemory = null;
+		int i = 0;
+		for(K2 key: inputReducers.keySet()){
+			reducers.get(i % reducers.size()).addInput(key, inputReducers.get(key));
+			i++;
+		}
+		inputReducers.clear();
+		inputReducers = null;
+	}
+
 	private void assignInputMappers(List<MapTask<K1, V1, K2, V2>> lMappers) {
 		int i = 0;
 		int j = 0;
 		for (ListElement<K1, V1> element : input) {
 			mappers.get(i % mappers.size()).addInput(element);
 			j++;
-			if(j%2 == 0){
+			if (j % 2 == 0) {
 				i++;
 			}
 		}
+		input.clear();
 		input = null;
 	}
 
@@ -166,10 +203,10 @@ public class MapReduce<K1 extends Comparable<? super K1>, V1 extends Comparable<
 		this.mappers = mappers;
 	}
 
-	public List<ListElement<K2,V2>> getOutput(){
-		if(finished){
+	public List<ListElement<K2, V2>> getOutput() {
+		if (finished) {
 			return output;
-		}else{
+		} else {
 			return null;
 		}
 	}

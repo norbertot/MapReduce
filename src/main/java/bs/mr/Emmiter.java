@@ -1,4 +1,4 @@
-package BD.Clase01.MR;
+package bs.mr;
 
 import java.util.ArrayList;
 import java.util.Collections;

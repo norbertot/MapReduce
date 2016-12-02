@@ -1,4 +1,4 @@
-package BD.Clase01.MR;
+package bs.mr;
 
 import org.apache.commons.lang3.StringUtils;
 
